@@ -1,0 +1,913 @@
+average_rating,battery_rating,brand,camera_rating,connectivity_rating,design_rating,performance_rating,phone_image,phone_name,user_rating
+2.7,2.1,Xiaomi,3.5,2.8,2.0,2.9,//cdn-files.kimovil.com/phone_front/0001/01/thumb_937_phone_front_medium.jpeg,Xiaomi Mi2s,0
+8.3,7.2,Huawei,8.9,8.5,8.6,8.3,//cdn-files.kimovil.com/phone_front/0004/56/thumb_355433_phone_front_medium.jpeg,Huawei Nova 7 Pro,0
+7.3,6.1,Huawei,8.3,6.4,8.0,7.9,//cdn-files.kimovil.com/phone_front/0003/31/thumb_230498_phone_front_medium.jpeg,Huawei nova 5,0
+8.0,6.3,Huawei,8.5,8.8,8.3,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221897_devicerender_small.jpeg,Huawei P30,0
+6.4,6.3,Huawei,6.2,5.3,7.1,6.9,//cdn-files.kimovil.com/phone_front/0002/58/thumb_157614_phone_front_medium.jpeg,Huawei Maimang 7,0
+4.5,5.0,Huawei,3.9,4.4,4.8,4.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221519_devicerender_small.jpeg,Huawei Y5 2018,0
+4.8,4.3,Huawei,4.6,5.3,5.0,5.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221221_devicerender_small.jpeg,Huawei Honor V9 Play,0
+5.4,5.7,Huawei,4.6,6.2,5.5,5.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220601_devicerender_small.jpeg,Huawei Nova Plus,0
+3.2,2.1,Huawei,2.9,3.4,5.0,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1154_phone_front_medium.jpeg,Huawei Ascend P6 S,0
+2.5,2.5,Huawei,2.3,3.1,2.0,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1128_phone_front_medium.jpeg,Huawei Honor 2,0
+3.6,4.1,Huawei,4.3,2.9,4.0,2.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1008_phone_front_medium.jpeg,Huawei Ascend D2,0
+2.1,2.0,Huawei,2.0,3.2,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1095_phone_front_medium.jpeg,Huawei Ascend G510,0
+3.3,6.5,Huawei,2.3,3.4,2.5,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_902_phone_front_medium.jpeg,Huawei Ascend Mate,0
+2.5,2.3,Huawei,3.0,3.0,2.0,2.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1076_phone_front_medium.jpeg,Huawei Ascend G615,0
+2.6,1.9,Huawei,3.0,3.7,2.3,1.9,//cdn-files.kimovil.com/phone_front/0001/01/thumb_912_phone_front_medium.jpeg,Huawei Ascend P1 LTE,0
+3.0,2.9,Huawei,3.0,3.2,4.0,2.1,//cdn-files.kimovil.com/phone_front/0001/01/thumb_837_phone_front_medium.jpeg,Huawei Ascend P2,0
+2.1,2.2,Huawei,2.0,2.6,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1053_phone_front_medium.jpeg,Huawei Ascend Y300,0
+3.4,2.0,Huawei,4.7,3.2,4.5,2.6,//cdn-files.kimovil.com/phone_front/0001/01/thumb_820_phone_front_medium.jpeg,Huawei Ascend P6,0
+2.1,2.6,Huawei,2.0,2.0,1.9,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1266_phone_front_medium.jpeg,Huawei G610s,0
+1.9,1.8,Huawei,1.9,2.1,1.8,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1010_phone_front_medium.jpeg,Huawei Ascend G525,0
+2.8,2.3,Huawei,2.7,2.5,4.3,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1081_phone_front_medium.jpeg,Huawei Honor 3,0
+2.4,2.6,Huawei,2.3,1.9,2.6,2.4,//cdn-files.kimovil.com/phone_front/0001/01/thumb_889_phone_front_medium.jpeg,Huawei Ascend G700,0
+2.6,3.6,Huawei,2.3,2.9,2.4,2.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1815_phone_front_medium.jpeg,Huawei Ascend G740,0
+3.3,4.1,Huawei,4.0,2.7,2.8,3.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_814_phone_front_medium.jpeg,Huawei Honor 3X,0
+3.0,2.9,Huawei,4.7,2.5,2.6,2.3,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1099_phone_front_medium.jpeg,Huawei Honor 3C,0
+4.1,6.8,Huawei,4.6,4.0,2.4,2.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_958_phone_front_medium.jpeg,Huawei Ascend Mate 2 4G,0
+2.9,4.6,Huawei,3.1,1.7,2.4,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1860_phone_front_medium.jpeg,Huawei B199,0
+3.6,2.4,Huawei,5.4,4.9,3.3,2.2,//cdn-files.kimovil.com/phone_front/0001/01/thumb_852_phone_front_medium.jpeg,Huawei Ascend G6 4G,0
+2.1,2.2,Huawei,2.0,2.6,1.9,1.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_805_phone_front_medium.jpeg,Huawei Ascend Y530,0
+2.3,2.8,Huawei,2.5,2.2,1.9,2.2,//cdn-files.kimovil.com/phone_front/0001/01/thumb_842_phone_front_medium.jpeg,Huawei Ascend G730,0
+2.9,2.4,Huawei,5.4,1.9,2.9,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_834_phone_front_medium.jpeg,Huawei Ascend G6,0
+4.4,8.2,Huawei,5.2,2.9,3.1,2.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_918_phone_front_medium.jpeg,Huawei MediaPad Honor X1,0
+2.3,2.8,Huawei,2.9,2.2,1.8,1.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3210_phone_front_medium.jpeg,Huawei Ascend Y600,0
+1.9,1.9,Huawei,1.8,1.8,2.0,1.8,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2431_phone_front_medium.jpeg,Huawei Ascend Y330,0
+2.7,2.3,Huawei,3.7,2.9,2.5,2.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1102_phone_front_medium.jpeg,Huawei Ascend G630,0
+3.6,2.4,Huawei,5.4,4.9,3.3,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1952_phone_front_medium.jpeg,Huawei Ascend P7 mini,0
+3.6,3.9,Huawei,4.0,2.8,3.9,3.3,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1035_phone_front_medium.jpeg,Huawei Honor 3X Pro,0
+4.4,3.0,Huawei,6.0,4.4,5.2,3.4,//cdn-files.kimovil.com/phone_front/0001/01/thumb_872_phone_front_medium.jpeg,Huawei Ascend P7,0
+3.2,2.7,Huawei,4.7,2.6,3.0,2.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_886_phone_front_medium.jpeg,Huawei Honor 3C 4G,0
+4.9,4.5,Huawei,6.1,3.6,5.5,5.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1158_phone_front_medium.jpeg,Huawei Honor 6,0
+2.7,2.2,Huawei,4.2,2.3,2.8,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1664_phone_front_medium.jpeg,Huawei Honor 3C Play Edition,0
+4.3,4.6,Huawei,5.9,3.5,4.2,3.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1726_phone_front_medium.jpeg,Huawei C199,0
+2.9,2.1,Huawei,4.2,3.5,2.4,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1898_phone_front_medium.jpeg,Huawei Honor 4 Play,0
+4.4,5.0,Huawei,5.9,3.1,4.6,3.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1894_phone_front_medium.jpeg,Huawei Ascend G7,0
+3.2,2.1,Huawei,3.9,4.4,3.0,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1891_phone_front_medium.jpeg,Huawei Ascend G620S,0
+2.7,2.3,Huawei,2.0,4.3,2.2,2.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1889_phone_front_medium.jpeg,Huawei Ascend Y550,0
+6.3,8.2,Huawei,5.9,7.3,5.2,4.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1759_phone_front_medium.jpeg,Huawei Ascend Mate7,0
+2.3,2.4,Huawei,2.0,2.9,2.3,2.0,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4134_phone_front_medium.jpeg,Huawei Ascend G535,0
+3.0,2.2,Huawei,4.2,2.5,3.8,2.4,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3122_phone_front_medium.jpeg,Huawei Honor Holly,0
+3.8,4.8,Huawei,5.3,4.0,2.5,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1986_phone_front_medium.jpeg,Huawei Honor 4X,0
+3.9,4.3,Huawei,5.3,4.1,2.5,3.4,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2636_phone_front_medium.jpeg,Huawei Honor 4X Play,0
+2.5,2.3,Huawei,2.3,3.4,2.6,2.0,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2265_phone_front_medium.jpeg,Huawei G620,0
+5.6,5.9,Huawei,6.2,5.4,5.5,4.8,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2360_phone_front_medium.jpeg,Huawei Honor 6 Plus,0
+2.2,2.7,Huawei,2.0,1.9,2.1,2.1,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3671_phone_front_medium.jpeg,Huawei Ascend Y540,0
+3.7,3.2,Huawei,5.9,3.0,2.9,3.3,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4088_phone_front_medium.jpeg,Huawei Honor 4C Play,0
+5.2,8.3,Huawei,3.3,5.0,4.6,4.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3531_phone_front_medium.jpeg,Huawei MediaPad Honor X2,0
+2.7,2.2,Huawei,2.3,4.2,1.8,2.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3479_phone_front_medium.jpeg,Huawei Y635,0
+2.2,2.0,Huawei,2.3,2.4,2.2,2.1,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4594_phone_front_medium.jpeg,Huawei Y3,0
+4.2,2.4,Huawei,6.1,4.7,3.6,4.2,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4016_phone_front_medium.jpeg,Huawei P8 Lite,0
+5.2,3.5,Huawei,7.2,4.9,5.8,4.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3900_phone_front_medium.jpeg,Huawei P8,0
+2.4,2.3,Huawei,2.6,2.8,2.3,2.0,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3472_phone_front_medium.jpeg,Huawei Y625,0
+3.7,3.2,Huawei,5.9,3.1,3.2,3.2,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4578_phone_front_medium.jpeg,Huawei G Play mini,0
+5.8,7.7,Huawei,7.1,4.2,5.3,4.5,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4286_phone_front_medium.jpeg,Huawei P8 Max,0
+2.2,1.9,Huawei,2.9,1.7,1.9,2.4,//cdn-files.kimovil.com/phone_front/0001/43/thumb_42280_phone_front_medium.jpeg,Huawei Honor Bee,0
+5.7,5.1,Huawei,6.8,6.1,5.2,5.1,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4747_phone_front_medium.jpeg,Huawei Honor 7,0
+2.5,2.5,Huawei,2.3,3.1,2.3,2.5,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5845_phone_front_medium.jpeg,Huawei Ascend Y5,0
+3.1,2.8,Huawei,3.9,3.0,3.1,2.5,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4946_phone_front_medium.jpeg,Huawei Honor 4A Play,0
+2.8,2.8,Huawei,2.6,2.5,3.2,3.1,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5841_phone_front_medium.jpeg,Huawei Y6+,0
+3.2,2.3,Huawei,3.0,2.5,4.3,3.7,//cdn-files.kimovil.com/phone_front/0001/13/thumb_12060_phone_front_medium.jpeg,Huawei GR3,0
+4.6,4.5,Huawei,4.5,4.5,5.5,3.8,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5272_phone_front_medium.jpeg,Huawei Honor 7i,0
+5.9,3.5,Huawei,7.1,7.1,6.9,5.0,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5527_phone_front_medium.jpeg,Huawei Mate S,0
+5.2,3.9,Huawei,6.3,6.0,5.4,4.3,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5882_phone_front_medium.jpeg,Huawei GX8,0
+3.4,5.8,Huawei,2.9,2.2,2.9,3.4,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6536_phone_front_medium.jpeg,Huawei GX1s,0
+6.6,5.7,Huawei,7.0,7.9,6.4,5.9,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5825_phone_front_medium.jpeg,Huawei Nexus 6P,0
+4.6,3.9,Huawei,6.1,4.0,4.6,4.2,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6244_phone_front_medium.jpeg,Huawei Honor 5X,0
+3.3,2.8,Huawei,3.9,4.3,3.1,2.5,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6048_phone_front_medium.jpeg,Huawei Y6,0
+4.4,7.4,Huawei,4.6,3.9,2.6,3.6,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6103_phone_front_medium.jpeg,Huawei Enjoy 5,0
+4.6,4.5,Huawei,4.8,4.6,5.5,3.8,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5272_phone_front_medium.jpeg,Huawei Honor Shot X,0
+7.0,6.7,Huawei,7.3,8.1,6.6,6.5,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6840_phone_front_medium.jpeg,Huawei Mate 8,0
+4.8,4.0,Huawei,5.9,5.2,5.2,3.7,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6263_phone_front_medium.jpeg,Huawei Ascend G7 Plus,0
+2.7,1.9,Huawei,2.6,2.8,2.7,3.3,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6693_phone_front_medium.jpeg,Huawei G629,0
+3.7,2.3,Huawei,4.5,3.8,4.1,3.7,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7262_phone_front_medium.jpeg,Huawei Enjoy 5S,0
+4.6,3.9,Huawei,7.1,3.6,4.1,4.4,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6515_phone_front_medium.jpeg,Huawei Maimang 4,0
+4.2,7.4,Huawei,4.5,2.8,2.6,3.6,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5841_phone_front_medium.jpeg,Huawei Y6 Pro,0
+4.5,7.4,Huawei,4.5,3.9,3.1,3.7,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148893_phone_front_medium.jpeg,Huawei Honor Holly 2 Plus,0
+5.3,4.6,Huawei,6.1,5.2,5.2,5.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220822_devicerender_small.jpeg,Huawei P9 Lite,0
+4.6,3.9,Huawei,4.5,5.6,4.6,4.2,//cdn-files.kimovil.com/phone_front/0001/66/thumb_65117_phone_front_medium.jpeg,Huawei GR5,0
+6.6,5.8,Huawei,7.0,7.9,5.7,6.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220423_devicerender_small.jpeg,Huawei P9 Plus,0
+6.2,4.4,Huawei,7.0,6.7,6.6,6.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220954_devicerender_small.jpeg,Huawei P9,0
+4.5,7.4,Huawei,4.5,4.3,2.6,3.8,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220355_devicerender_small.jpeg,Huawei Honor 4C Pro,0
+4.5,4.6,Huawei,4.6,3.6,4.9,5.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220353_devicerender_small.jpeg,Huawei Honor 5C,0
+6.7,5.9,Huawei,7.0,7.8,6.3,6.4,//cdn-files.kimovil.com/phone_front/0001/23/thumb_22361_phone_front_medium.jpeg,Huawei Honor V8,0
+3.1,2.9,Huawei,3.3,2.7,4.0,2.6,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220949_devicerender_small.jpeg,Huawei Ascend Y5 II,0
+4.9,4.1,Huawei,6.1,4.7,5.0,4.5,//cdn-files.kimovil.com/phone_front/0001/16/thumb_15035_phone_front_medium.jpeg,Huawei G9 Lite,0
+4.4,4.6,Huawei,4.7,4.1,4.3,4.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220486_devicerender_small.jpeg,Huawei Honor 5A,0
+4.6,4.6,Huawei,4.5,4.3,4.7,5.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220353_devicerender_small.jpeg,Huawei GT3,0
+2.9,2.8,Huawei,2.8,3.9,2.1,2.8,//cdn-files.kimovil.com/phone_front/0001/31/thumb_30831_phone_front_medium.jpeg,Huawei Y3 II,0
+3.8,3.7,Huawei,4.7,3.0,3.4,4.1,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31686_phone_front_medium.jpeg,Huawei Y6 II,0
+6.0,4.5,Huawei,7.0,6.4,5.7,6.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220555_devicerender_small.jpeg,Huawei Honor 8,0
+5.5,5.7,Huawei,6.7,4.6,5.1,5.5,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31118_phone_front_medium.jpeg,Huawei Maimang 5,0
+5.5,5.7,Huawei,6.7,4.8,5.1,5.2,//cdn-files.kimovil.com/phone_front/0001/36/thumb_35096_phone_front_medium.jpeg,Huawei G9 Plus,0
+6.5,7.8,Huawei,7.2,5.7,5.2,6.8,//cdn-files.kimovil.com/phone_front/0001/33/thumb_32466_phone_front_medium.jpeg,Huawei Honor Note 8,0
+3.7,2.9,Huawei,4.2,4.6,3.4,3.4,//cdn-files.kimovil.com/phone_front/0001/58/thumb_57401_phone_front_medium.jpeg,Huawei Honor 5,0
+3.6,2.6,Huawei,4.3,4.0,3.4,3.5,//cdn-files.kimovil.com/phone_front/0001/87/thumb_86525_phone_front_medium.jpeg,Huawei Y6II Compact,0
+5.7,4.9,Huawei,6.8,4.6,6.3,5.7,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220560_devicerender_small.jpeg,Huawei Nova,0
+4.5,4.8,Huawei,4.6,4.7,4.6,3.8,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148573_phone_front_medium.jpeg,Huawei Honor Holly 3,0
+5.3,5.6,Huawei,5.2,5.7,4.8,5.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220750_devicerender_small.jpeg,Huawei Honor 6X,0
+5.1,7.0,Huawei,4.3,4.1,5.6,4.6,//cdn-files.kimovil.com/phone_front/0001/43/thumb_42980_phone_front_medium.jpeg,Huawei Enjoy 6,0
+5.3,5.6,Huawei,5.1,5.9,4.8,5.1,//cdn-files.kimovil.com/phone_front/0001/66/thumb_65296_phone_front_medium.jpeg,Huawei Mate 9 Lite,0
+7.1,6.7,Huawei,7.2,7.9,6.5,7.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220656_devicerender_small.jpeg,Huawei Mate 9,0
+7.3,6.7,Huawei,7.2,8.5,7.0,7.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220631_devicerender_small.jpeg,Huawei Mate 9 Pro,0
+4.6,4.5,Huawei,4.3,4.4,4.9,4.7,//cdn-files.kimovil.com/phone_front/0001/51/thumb_50786_phone_front_medium.jpeg,Huawei Enjoy 6s,0
+5.4,4.6,Huawei,6.0,6.1,5.7,4.8,//cdn-files.kimovil.com/phone_front/0002/50/thumb_149104_phone_front_medium.jpeg,Huawei Honor 8 Smart,0
+5.7,3.9,Huawei,5.3,8.1,5.3,6.0,//cdn-files.kimovil.com/phone_front/0001/50/thumb_49598_phone_front_medium.jpeg,Huawei Honor Magic,0
+4.1,2.3,Huawei,6.1,4.7,3.3,4.1,//cdn-files.kimovil.com/phone_front/0001/61/thumb_60774_phone_front_medium.jpeg,Huawei P8 Lite Smart,0
+5.5,4.5,Huawei,6.0,6.1,5.4,5.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220822_devicerender_small.jpeg,Huawei P9 Lite 2017,0
+5.2,4.5,Huawei,5.2,5.6,5.4,5.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220741_devicerender_small.jpeg,Huawei P8 Lite 2017,0
+4.7,4.5,Huawei,4.3,4.5,5.1,5.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220910_devicerender_small.jpeg,Huawei Honor 8 Lite,0
+4.7,5.6,Huawei,3.4,4.3,4.9,5.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220750_devicerender_small.jpeg,Huawei GR5 2017,0
+4.8,4.5,Huawei,4.5,4.8,5.1,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221180_devicerender_small.jpeg,Huawei Nova Lite,0
+6.4,6.7,Huawei,5.9,6.8,5.8,7.0,//cdn-files.kimovil.com/phone_front/0001/60/thumb_59008_phone_front_medium.jpeg,Huawei Honor V9,0
+6.9,6.3,Huawei,6.9,8.1,6.1,7.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220854_devicerender_small.jpeg,Huawei P10 Plus,0
+7.0,5.3,Huawei,7.8,8.0,6.8,7.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220857_devicerender_small.jpeg,Huawei P10,0
+6.6,6.7,Huawei,5.9,7.1,6.1,7.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220866_devicerender_small.jpeg,Huawei Honor 8 Pro,0
+5.3,4.1,Huawei,4.3,6.2,5.6,6.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220795_devicerender_small.jpeg,Huawei P10 Lite,0
+4.5,4.5,Huawei,4.3,4.6,4.3,4.8,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220851_devicerender_small.jpeg,Huawei Honor 6C,0
+5.5,5.5,Huawei,5.3,5.3,5.3,6.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148270_phone_front_medium.jpeg,Huawei Honor 9i India,0
+2.9,2.8,Huawei,2.8,3.3,2.3,3.4,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148799_phone_front_medium.jpeg,Huawei Honor Bee 2,0
+4.8,6.6,Huawei,4.4,4.1,3.8,5.1,//cdn-files.kimovil.com/phone_front/0001/68/thumb_67127_phone_front_medium.jpeg,Huawei Enjoy 7 Plus,0
+4.5,4.5,Huawei,4.3,3.9,4.8,4.8,//cdn-files.kimovil.com/phone_front/0001/37/thumb_36072_phone_front_medium.jpeg,Huawei Nova Smart,0
+4.8,4.1,Huawei,4.3,4.2,5.7,5.8,//cdn-files.kimovil.com/phone_front/0001/69/thumb_68440_phone_front_medium.jpeg,Huawei Nova Youth,0
+4.7,6.6,Huawei,4.4,3.7,4.1,4.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221023_devicerender_small.jpeg,Huawei Y7,0
+4.5,4.5,Huawei,4.3,4.4,4.5,4.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221008_devicerender_small.jpeg,Huawei Honor 6A,0
+4.2,4.5,Huawei,3.0,4.9,4.0,4.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221220_devicerender_small.jpeg,Huawei Y6 Pro 2017,0
+4.4,4.9,Huawei,4.6,4.5,3.6,4.6,//cdn-files.kimovil.com/phone_front/0001/82/thumb_81648_phone_front_medium.jpeg,Huawei Nova Young,0
+5.5,5.6,Huawei,5.6,4.8,5.4,6.2,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220996_devicerender_small.jpeg,Huawei Nova 2 Plus,0
+5.4,4.3,Huawei,6.7,5.0,5.2,5.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220999_devicerender_small.jpeg,Huawei Nova 2,0
+5.1,6.6,Huawei,4.3,5.4,4.2,5.1,//cdn-files.kimovil.com/phone_front/0001/79/thumb_78117_phone_front_medium.jpeg,Huawei Y7 Prime,0
+6.1,5.3,Huawei,6.4,6.8,5.0,7.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221039_devicerender_small.jpeg,Huawei Honor 9,0
+2.8,2.8,Huawei,3.9,2.0,2.1,3.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221012_devicerender_small.jpeg,Huawei Y3 2017,0
+4.6,4.8,Huawei,4.6,4.7,4.6,4.2,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148574_phone_front_medium.jpeg,Huawei Honor Holly 3+,0
+4.7,5.1,Huawei,4.5,4.7,4.8,4.2,//cdn-files.kimovil.com/phone_front/0001/78/thumb_77340_phone_front_medium.jpeg,Huawei Enjoy 7,0
+4.3,4.9,Huawei,4.6,4.4,3.3,4.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220978_devicerender_small.jpeg,Huawei Y6 2017,0
+4.4,5.1,Huawei,3.0,5.1,4.4,4.2,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100324_phone_front_medium.jpeg,Huawei P9 Lite mini,0
+4.3,5.0,Huawei,4.5,4.2,3.3,4.3,//cdn-files.kimovil.com/phone_front/0001/87/thumb_86291_phone_front_medium.jpeg,Huawei Honor 6 Play,0
+5.5,5.5,Huawei,6.0,4.6,5.3,6.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221260_devicerender_small.jpeg,Huawei nova 2i,0
+5.9,5.5,Huawei,6.4,6.5,5.3,5.9,//cdn-files.kimovil.com/phone_front/0001/94/thumb_93471_phone_front_medium.jpeg,Huawei Maimang 6,0
+4.9,6.6,Huawei,4.4,4.2,4.1,5.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148583_phone_front_medium.jpeg,Huawei Honor Holly 4 Plus,0
+5.7,5.5,Huawei,6.4,4.7,5.7,6.3,//cdn-files.kimovil.com/phone_front/0001/98/thumb_97001_phone_front_medium.jpeg,Huawei Mate 10 Lite,0
+7.6,7.1,Huawei,7.7,8.2,7.3,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221238_devicerender_small.jpeg,Huawei Mate 10 Pro,0
+7.7,7.0,Huawei,7.7,8.4,7.7,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221235_devicerender_small.jpeg,Huawei Mate 10,0
+5.4,5.5,Huawei,5.3,4.8,5.7,5.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221305_devicerender_small.jpeg,Huawei Honor 7x,0
+4.5,4.4,Huawei,4.5,4.5,4.3,5.0,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148559_phone_front_medium.jpeg,Huawei Honor Holly 4,0
+4.6,4.3,Huawei,4.4,4.5,4.7,5.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221221_devicerender_small.jpeg,Huawei Honor 6C Pro,0
+6.6,6.4,Huawei,5.8,6.9,6.0,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221306_devicerender_small.jpeg,Huawei Honor V10,0
+5.4,4.3,Huawei,5.9,5.2,5.8,5.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221298_devicerender_small.jpeg,Huawei Honor 9 Lite,0
+5.1,4.3,Huawei,4.4,5.3,5.6,5.8,//cdn-files.kimovil.com/phone_front/0002/16/thumb_115719_phone_front_medium.jpeg,Huawei Enjoy 7s,0
+6.4,5.5,Huawei,6.2,6.9,6.1,7.3,//cdn-files.kimovil.com/phone_front/0002/15/thumb_114355_phone_front_medium.jpeg,Huawei Nova 2s,0
+5.3,4.3,Huawei,5.4,4.9,5.8,6.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221369_devicerender_small.jpeg,Huawei P Smart,0
+5.0,4.7,Huawei,5.2,4.8,4.4,5.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221436_devicerender_small.jpeg,Huawei Honor 7C,0
+4.9,4.0,Huawei,5.3,4.8,4.9,5.5,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131066_phone_front_medium.jpeg,Huawei nova 2 Lite,0
+4.7,4.0,Huawei,5.2,4.4,5.0,5.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221438_devicerender_small.jpeg,Huawei Y7 Pro 2018,0
+5.9,4.3,Huawei,5.7,6.6,6.7,6.1,//cdn-files.kimovil.com/phone_front/0002/33/thumb_132242_phone_front_medium.jpeg,Huawei nova 3e,0
+6.9,5.9,Huawei,6.7,7.8,6.6,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221343_devicerender_small.jpeg,Huawei P20,0
+7.9,7.1,Huawei,8.9,8.4,7.3,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221340_devicerender_small.jpeg,Huawei P20 Pro,0
+5.5,6.5,Huawei,5.8,4.2,5.4,5.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221439_devicerender_small.jpeg,Huawei Y9 (2018),0
+5.8,4.3,Huawei,5.5,6.2,6.7,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221335_devicerender_small.jpeg,Huawei P20 Lite,0
+5.9,6.7,Huawei,5.7,5.6,5.6,6.1,//cdn-files.kimovil.com/phone_front/0002/35/thumb_134265_phone_front_medium.jpeg,Huawei Enjoy 8 Plus,0
+4.8,4.0,Huawei,5.3,4.6,5.0,5.1,//cdn-files.kimovil.com/phone_front/0002/35/thumb_134291_phone_front_medium.jpeg,Huawei Enjoy 8,0
+4.5,4.1,Huawei,3.5,5.6,4.6,4.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221393_devicerender_small.jpeg,Huawei Honor 7A,0
+5.0,4.0,Huawei,5.3,6.1,4.9,4.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221440_devicerender_small.jpeg,Huawei Y7 Prime 2018,0
+4.8,4.1,Huawei,4.6,5.8,4.6,5.1,//cdn-files.kimovil.com/phone_front/0002/35/thumb_134218_phone_front_medium.jpeg,Huawei Enjoy 8e,0
+7.7,7.3,Huawei,7.4,8.2,8.0,7.6,//cdn-files.kimovil.com/phone_front/0002/36/thumb_135654_phone_front_medium.jpeg,Huawei Mate RS,0
+6.8,5.9,Huawei,6.9,6.8,6.6,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221458_devicerender_small.jpeg,Huawei Honor 10,0
+4.7,4.7,Huawei,4.3,5.5,4.7,4.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221392_devicerender_small.jpeg,Huawei Y6 2018,0
+4.6,5.0,Huawei,4.3,4.2,5.1,4.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221546_devicerender_small.jpeg,Huawei Honor 7S,0
+3.4,3.0,Huawei,3.8,4.6,2.2,3.5,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141890_phone_front_medium.jpeg,Huawei Y3 2018,0
+4.6,5.0,Huawei,4.3,4.5,4.7,4.5,//cdn-files.kimovil.com/phone_front/0002/41/thumb_140912_phone_front_medium.jpeg,Huawei Honor Play 7,0
+6.6,6.4,Huawei,6.2,5.5,7.4,7.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221510_devicerender_small.jpeg,Huawei Honor Play,0
+5.4,4.3,Huawei,5.7,5.0,6.2,6.0,//cdn-files.kimovil.com/phone_front/0002/44/thumb_143525_phone_front_medium.jpeg,Huawei Honor 9i,0
+6.8,6.4,Huawei,6.6,5.7,7.7,7.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221578_devicerender_small.jpeg,Huawei Nova 3,0
+6.1,5.6,Huawei,5.6,5.2,7.1,6.8,//cdn-files.kimovil.com/phone_front/0002/50/thumb_149467_phone_front_medium.jpeg,Huawei nova 3i,0
+5.3,4.3,Huawei,5.4,4.6,6.2,6.1,//cdn-files.kimovil.com/phone_front/0002/44/thumb_143525_phone_front_medium.jpeg,Huawei Honor 9N,0
+7.3,8.3,Huawei,6.3,6.8,7.3,7.7,//cdn-files.kimovil.com/phone_front/0002/52/thumb_151515_phone_front_medium.jpeg,Huawei Honor Note 10,0
+6.0,5.6,Huawei,5.6,4.6,7.2,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221592_devicerender_small.jpeg,Huawei P smart+,0
+6.5,6.3,Huawei,6.3,6.3,6.9,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221654_devicerender_small.jpeg,Huawei Mate 20 Lite,0
+4.7,5.0,Huawei,4.3,4.9,4.7,4.6,//cdn-files.kimovil.com/phone_front/0002/92/thumb_191385_phone_front_medium.jpeg,Huawei Enjoy 8e Lite,0
+6.9,8.3,Huawei,6.1,5.9,7.5,6.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221645_devicerender_small.jpeg,Huawei Honor 8x Max,0
+6.8,6.3,Huawei,6.3,6.5,7.8,7.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221728_devicerender_small.jpeg,Huawei Honor 8x,0
+6.2,6.8,Huawei,5.0,5.2,7.2,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221700_devicerender_small.jpeg,Huawei Y9 (2019),0
+6.1,7.0,Huawei,5.5,4.9,6.5,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221808_devicerender_small.jpeg,Huawei Honor 8C,0
+6.9,8.3,Huawei,6.1,5.8,7.3,6.9,//cdn-files.kimovil.com/phone_front/0002/57/thumb_156730_phone_front_medium.jpeg,Huawei Enjoy Max,0
+6.6,6.8,Huawei,6.5,5.7,7.2,7.0,//cdn-files.kimovil.com/phone_front/0002/61/thumb_160450_phone_front_medium.jpeg,Huawei Enjoy 9 Plus,0
+8.0,7.3,Huawei,7.5,8.9,8.3,8.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221707_devicerender_small.jpeg,Huawei Mate 20,0
+8.3,7.7,Huawei,7.8,8.5,8.9,8.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221694_devicerender_small.jpeg,Huawei Mate 20 RS Porsche Design,0
+8.5,8.6,Huawei,9.0,8.6,8.1,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221690_devicerender_small.jpeg,Huawei Mate 20X,0
+8.2,7.8,Huawei,7.5,8.6,8.9,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221720_devicerender_small.jpeg,Huawei Mate 20 Pro,0
+7.3,5.9,Huawei,6.5,7.8,8.0,8.2,//cdn-files.kimovil.com/phone_front/0002/66/thumb_165114_phone_front_medium.jpeg,Huawei Honor Magic 2,0
+6.4,5.8,Huawei,5.9,5.8,7.5,7.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221776_devicerender_small.jpeg,Huawei Honor 10 Lite,0
+5.7,7.0,Huawei,5.5,5.0,5.5,5.4,//cdn-files.kimovil.com/phone_front/0002/85/thumb_184493_phone_front_medium.jpeg,Huawei Enjoy 9,0
+7.1,6.4,Huawei,6.7,6.2,8.2,7.9,//cdn-files.kimovil.com/phone_front/0002/78/thumb_177220_phone_front_medium.jpeg,Huawei nova 4,0
+6.9,8.3,Huawei,6.1,6.1,7.2,6.9,//cdn-files.kimovil.com/phone_front/0002/57/thumb_156730_phone_front_medium.jpeg,Huawei Y Max,0
+7.9,7.3,Huawei,8.0,7.9,8.1,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221751_devicerender_small.jpeg,Huawei Honor View 20,0
+6.5,5.8,Huawei,6.2,5.7,7.6,7.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221752_devicerender_small.jpeg,Huawei P Smart 2019,0
+5.1,4.6,Huawei,4.7,4.5,5.3,6.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221835_devicerender_small.jpeg,Huawei Honor Play 8A,0
+5.6,7.0,Huawei,5.5,4.5,5.3,5.8,//cdn-files.kimovil.com/phone_front/0002/87/thumb_186038_phone_front_medium.jpeg,Huawei Y7 Prime 2019,0
+5.2,5.2,Huawei,4.7,5.1,5.5,5.5,//cdn-files.kimovil.com/phone_front/0002/90/thumb_189647_phone_front_medium.jpeg,Huawei Y6 Pro 2019,0
+8.0,8.0,Huawei,7.2,8.5,7.7,8.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221826_devicerender_small.jpeg,Huawei Mate X,0
+5.1,5.2,Huawei,5.5,3.9,5.6,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221923_devicerender_small.jpeg,Huawei Y6 2019,0
+6.5,5.8,Huawei,6.6,5.7,7.6,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221813_devicerender_small.jpeg,Huawei P smart+ 2019,0
+6.6,5.7,Huawei,6.7,6.0,7.7,7.1,//cdn-files.kimovil.com/phone_front/0002/97/thumb_196015_phone_front_medium.jpeg,Huawei nova 4e,0
+6.6,5.8,Huawei,6.8,5.9,7.4,6.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221980_devicerender_small.jpeg,Huawei Honor 10i,0
+6.4,5.8,Huawei,6.1,5.8,7.4,7.0,//cdn-files.kimovil.com/phone_front/0002/98/thumb_197846_phone_front_medium.jpeg,Huawei Enjoy 9s,0
+5.0,5.2,Huawei,4.7,4.7,5.0,5.6,//cdn-files.kimovil.com/phone_front/0002/98/thumb_197838_phone_front_medium.jpeg,Huawei Enjoy 9e,0
+8.6,7.8,Huawei,9.1,8.7,9.0,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221910_devicerender_small.jpeg,Huawei P30 Pro,0
+6.7,5.7,Huawei,6.8,6.5,7.7,6.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221903_devicerender_small.jpeg,Huawei P30 Lite,0
+5.0,5.2,Huawei,4.7,4.1,5.6,5.3,//cdn-files.kimovil.com/phone_front/0002/94/thumb_193253_phone_front_medium.jpeg,Huawei Y6 Prime 2019,0
+6.6,5.8,Huawei,7.0,5.6,7.3,7.2,//cdn-files.kimovil.com/phone_front/0003/04/thumb_203295_phone_front_medium.jpeg,Huawei Honor 20i,0
+5.0,5.2,Huawei,4.7,5.3,4.7,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221965_devicerender_small.jpeg,Huawei Y5 2019,0
+4.9,5.2,Huawei,4.7,4.6,4.7,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221976_devicerender_small.jpeg,Huawei Honor 8s,0
+5.6,7.0,Huawei,5.6,4.8,5.0,5.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221438_devicerender_small.jpeg,Huawei Y7 Pro 2019,0
+6.7,5.8,Huawei,7.0,6.7,7.3,6.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221980_devicerender_small.jpeg,Huawei Honor 20 Lite,0
+6.8,6.8,Huawei,6.2,6.7,7.4,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221941_devicerender_small.jpeg,Huawei P Smart Z,0
+6.5,6.8,Huawei,6.0,5.0,7.5,7.0,//cdn-files.kimovil.com/devicerender/0003/57/thumb_256422_devicerender_small.jpeg,Huawei Y9 Prime 2019,0
+8.5,7.6,Huawei,9.0,9.3,8.1,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221690_devicerender_small.jpeg,Huawei Mate 20X 5G,0
+7.8,6.4,Huawei,8.5,8.0,7.7,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221935_devicerender_small.jpeg,Huawei Honor 20,0
+7.9,7.3,Huawei,9.2,7.4,7.5,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221934_devicerender_small.jpeg,Huawei Honor 20 Pro,0
+6.8,5.8,Huawei,6.8,6.5,7.6,7.1,//cdn-files.kimovil.com/phone_front/0003/02/thumb_201762_phone_front_medium.jpeg,Huawei Maimang 8,0
+6.8,6.6,Huawei,7.1,6.0,7.2,7.3,//cdn-files.kimovil.com/phone_front/0003/15/thumb_214623_phone_front_medium.jpeg,Huawei nova 5i,0
+7.6,6.1,Huawei,8.8,7.1,8.0,8.2,//cdn-files.kimovil.com/phone_front/0003/17/thumb_216719_phone_front_medium.jpeg,Huawei nova 5 Pro,0
+6.8,6.6,Huawei,7.1,6.2,7.2,7.1,//cdn-files.kimovil.com/phone_front/0003/15/thumb_214623_phone_front_medium.jpeg,Huawei P20 Lite 2019,0
+4.7,5.2,Huawei,4.6,4.3,4.1,5.3,//cdn-files.kimovil.com/phone_front/0003/24/thumb_223163_phone_front_medium.jpeg,Huawei Honor Play 8,0
+7.4,6.7,Huawei,8.9,6.3,7.4,7.9,//cdn-files.kimovil.com/phone_front/0003/24/thumb_223583_phone_front_medium.jpeg,Huawei nova 5i Pro,0
+7.4,6.7,Huawei,8.5,6.4,7.7,7.7,//cdn-files.kimovil.com/phone_front/0003/24/thumb_223584_phone_front_medium.jpeg,Huawei Mate 30 Lite,0
+7.5,7.3,Huawei,8.6,5.9,7.6,8.0,//cdn-files.kimovil.com/devicerender/0003/78/thumb_277391_devicerender_small.jpeg,Huawei Honor 9x Pro,0
+7.2,6.8,Huawei,8.6,5.5,7.6,7.3,//cdn-files.kimovil.com/devicerender/0003/78/thumb_277391_devicerender_small.jpeg,Huawei Honor 9x,0
+7.4,6.4,Huawei,8.2,6.4,7.9,8.0,//cdn-files.kimovil.com/devicerender/0004/02/thumb_301811_devicerender_small.jpeg,Huawei Honor 20S,0
+6.7,6.8,Huawei,6.6,5.6,7.6,7.0,//cdn-files.kimovil.com/phone_front/0003/44/thumb_243619_phone_front_medium.jpeg,Huawei Enjoy 10 Plus,0
+4.6,4.3,Huawei,4.6,4.3,4.1,5.7,//cdn-files.kimovil.com/phone_front/0003/54/thumb_253245_phone_front_medium.jpeg,Huawei Honor Play 3e,0
+6.9,7.0,Huawei,8.0,5.5,7.1,6.9,//cdn-files.kimovil.com/phone_front/0003/49/thumb_248823_phone_front_medium.jpeg,Huawei Honor Play 3,0
+8.7,8.1,Huawei,9.2,8.6,8.9,8.7,//cdn-files.kimovil.com/devicerender/0003/68/thumb_267324_devicerender_small.jpeg,Huawei Mate 30 Pro,0
+8.6,7.8,Huawei,9.0,9.0,8.8,8.4,//cdn-files.kimovil.com/devicerender/0003/80/thumb_279786_devicerender_small.jpeg,Huawei Mate 30,0
+7.8,6.4,Huawei,8.9,7.9,7.7,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221935_devicerender_small.jpeg,Huawei Nova 5T,0
+7.5,7.4,Huawei,8.0,6.8,7.4,7.9,//cdn-files.kimovil.com/phone_front/0003/64/thumb_263947_phone_front_medium.jpeg,Huawei nova 5z,0
+6.3,7.0,Huawei,6.2,5.0,6.6,6.9,//cdn-files.kimovil.com/phone_front/0003/64/thumb_263982_phone_front_medium.jpeg,Huawei Enjoy 10,0
+7.0,6.9,Huawei,7.8,5.9,7.5,6.9,//cdn-files.kimovil.com/phone_front/0003/67/thumb_266111_phone_front_medium.jpeg,Huawei Honor 20 Youth,0
+7.0,6.8,Huawei,8.3,5.2,7.6,7.2,//cdn-files.kimovil.com/devicerender/0003/88/thumb_287140_devicerender_small.jpeg,Huawei Y9s,0
+8.4,7.6,Huawei,9.2,8.7,8.0,8.6,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354007_devicerender_small.jpeg,Huawei Honor V30 Pro,0
+8.4,7.7,Huawei,9.1,8.7,8.0,8.5,//cdn-files.kimovil.com/phone_front/0003/81/thumb_280851_phone_front_medium.jpeg,Huawei Honor V30,0
+6.8,6.6,Huawei,6.6,5.7,7.8,7.1,//cdn-files.kimovil.com/phone_front/0003/77/thumb_276665_phone_front_medium.jpeg,Huawei Enjoy 10S,0
+8.2,7.6,Huawei,9.2,7.9,7.7,8.6,//cdn-files.kimovil.com/phone_front/0003/84/thumb_283734_phone_front_medium.jpeg,Huawei Nova 6,0
+7.2,7.7,Huawei,6.6,6.5,7.3,8.0,//cdn-files.kimovil.com/phone_front/0003/85/thumb_284356_phone_front_medium.jpeg,Huawei nova 6 SE,0
+6.8,7.3,Huawei,6.6,6.0,6.3,7.9,//cdn-files.kimovil.com/phone_front/0003/82/thumb_281010_phone_front_medium.jpeg,Huawei P smart Pro 2019,0
+8.0,7.3,Huawei,9.2,7.9,7.5,8.2,//cdn-files.kimovil.com/phone_front/0003/81/thumb_280453_phone_front_medium.jpeg,Huawei Nova 5T Pro,0
+5.1,4.6,Huawei,4.7,4.7,5.5,6.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221835_devicerender_small.jpeg,Huawei Y6s,0
+7.4,7.7,Huawei,6.6,7.5,7.3,7.9,//cdn-files.kimovil.com/phone_front/0003/85/thumb_284356_phone_front_medium.jpeg,Huawei Nova 7i,0
+8.2,8.0,Huawei,7.2,9.1,8.0,8.8,//cdn-files.kimovil.com/devicerender/0004/54/thumb_353996_devicerender_small.jpeg,Huawei Mate Xs,0
+7.3,7.7,Huawei,6.6,7.2,7.3,7.9,//cdn-files.kimovil.com/devicerender/0004/54/thumb_353999_devicerender_small.jpeg,Huawei P40 Lite,0
+6.1,8.3,Huawei,5.4,4.7,5.8,6.4,//cdn-files.kimovil.com/phone_front/0004/33/thumb_332654_phone_front_medium.jpeg,Huawei Enjoy 10e,0
+7.1,6.3,Huawei,8.1,6.1,7.6,7.3,//cdn-files.kimovil.com/phone_front/0004/26/thumb_325555_phone_front_medium.jpeg,Huawei Honor 9x Lite,0
+8.9,7.8,Huawei,9.4,9.6,9.1,8.7,//cdn-files.kimovil.com/phone_front/0004/43/thumb_342231_phone_front_medium.jpeg,Huawei P40 Pro,0
+8.4,6.6,Huawei,9.4,9.4,8.2,8.6,//cdn-files.kimovil.com/devicerender/0004/54/thumb_353977_devicerender_small.jpeg,Huawei P40,0
+8.9,7.8,Huawei,9.5,9.4,9.0,8.9,//cdn-files.kimovil.com/devicerender/0004/54/thumb_353975_devicerender_small.jpeg,Huawei P40 Pro+,0
+8.0,7.7,Huawei,8.8,7.6,7.7,8.2,//cdn-files.kimovil.com/phone_front/0004/45/thumb_344642_phone_front_medium.jpeg,Huawei Honor 30S,0
+6.2,8.3,Huawei,5.5,4.4,6.3,6.5,//cdn-files.kimovil.com/phone_front/0004/46/thumb_345714_phone_front_medium.jpeg,Huawei Honor Play 9A,0
+5.3,4.6,Huawei,4.7,5.3,5.5,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221835_devicerender_small.jpeg,Huawei Honor 8A Prime,0
+6.8,7.0,Huawei,6.5,6.6,6.7,7.3,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354000_devicerender_small.jpeg,Huawei P40 Lite E,0
+7.3,6.7,Huawei,8.1,6.4,7.3,7.9,//cdn-files.kimovil.com/phone_front/0004/48/thumb_347011_phone_front_medium.jpeg,Huawei Honor Play 4T Pro,0
+6.3,6.4,Huawei,7.8,5.2,5.9,6.4,//cdn-files.kimovil.com/phone_front/0004/47/thumb_346824_phone_front_medium.jpeg,Huawei Honor Play 4T,0
+8.6,7.1,Huawei,9.2,9.3,8.7,8.6,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351756_phone_front_medium.jpeg,Huawei Honor 30 Pro,0
+8.3,7.2,Huawei,9.1,8.5,8.4,8.3,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351769_phone_front_medium.jpeg,Huawei Honor 30,0
+7.8,7.3,Huawei,8.7,7.5,7.5,8.2,//cdn-files.kimovil.com/phone_front/0004/56/thumb_355492_phone_front_medium.jpeg,Huawei nova 7 SE,0
+8.3,7.2,Huawei,9.2,8.5,8.4,8.3,//cdn-files.kimovil.com/phone_front/0004/56/thumb_355407_phone_front_medium.jpeg,Huawei Nova 7,0
+2.4,2.2,Xiaomi,2.1,3.3,2.3,2.3,//cdn-files.kimovil.com/phone_front/0001/01/thumb_945_phone_front_medium.jpeg,Xiaomi Mi2a,0
+2.6,2.1,Xiaomi,3.7,2.7,2.4,2.1,//cdn-files.kimovil.com/phone_front/0001/01/thumb_915_phone_front_medium.jpeg,Xiaomi HongMi,0
+4.6,4.4,Xiaomi,5.7,3.7,4.5,4.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1172_phone_front_medium.jpeg,Xiaomi Mi3,0
+3.9,5.4,Xiaomi,4.1,4.7,2.3,3.1,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1614_phone_front_medium.jpeg,Xiaomi Redmi Note,0
+2.8,2.1,Xiaomi,3.7,2.8,3.2,2.3,//cdn-files.kimovil.com/phone_front/0001/01/thumb_915_phone_front_medium.jpeg,Xiaomi HongMi 1s,0
+5.2,6.2,Xiaomi,5.8,4.7,4.5,5.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1067_phone_front_medium.jpeg,Xiaomi Mi4,0
+5.6,4.1,Xiaomi,6.6,4.8,6.8,5.5,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2531_phone_front_medium.jpeg,Xiaomi Mi Note Pro,0
+5.5,4.0,Xiaomi,6.6,4.8,6.8,5.2,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2530_phone_front_medium.jpeg,Xiaomi Mi Note,0
+5.2,4.7,Xiaomi,5.8,5.4,6.1,4.1,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3994_phone_front_medium.jpeg,Xiaomi Mi4i,0
+4.9,4.1,Xiaomi,5.8,5.9,4.4,4.3,//cdn-files.kimovil.com/phone_front/0001/27/thumb_26534_phone_front_medium.jpeg,Xiaomi Redmi Note 2,0
+3.4,2.8,Xiaomi,3.9,4.3,3.5,2.6,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2563_phone_front_medium.jpeg,Xiaomi Redmi 2,0
+5.8,5.1,Xiaomi,6.4,5.8,6.4,5.3,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5524_phone_front_medium.jpeg,Xiaomi Mi4c,0
+5.6,6.5,Xiaomi,5.7,6.0,5.0,5.0,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6774_phone_front_medium.jpeg,Xiaomi Redmi Note 3,0
+5.1,6.9,Xiaomi,5.5,5.3,4.1,3.9,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7556_phone_front_medium.jpeg,Xiaomi Redmi 3,0
+5.5,5.5,Xiaomi,5.2,6.1,5.5,5.1,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8183_phone_front_medium.jpeg,Xiaomi Mi4S,0
+6.4,5.1,Xiaomi,7.1,6.5,6.5,6.7,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7459_phone_front_medium.jpeg,Xiaomi Mi5,0
+5.3,7.0,Xiaomi,5.4,5.5,4.3,4.2,//cdn-files.kimovil.com/phone_front/0001/12/thumb_11289_phone_front_medium.jpeg,Xiaomi Redmi 3 Pro,0
+6.1,6.7,Xiaomi,5.9,7.2,5.0,5.7,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220490_devicerender_small.jpeg,Xiaomi Redmi Note 3 Pro,0
+6.6,8.1,Xiaomi,6.8,6.1,6.2,5.8,//cdn-files.kimovil.com/phone_front/0001/22/thumb_21644_phone_front_medium.jpeg,Xiaomi Mi Max,0
+5.3,7.1,Xiaomi,5.5,5.5,4.3,4.2,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27431_phone_front_medium.jpeg,Xiaomi Redmi 3S,0
+5.2,7.1,Xiaomi,5.4,5.1,4.2,4.0,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27431_phone_front_medium.jpeg,Xiaomi Redmi 3X,0
+6.1,6.5,Xiaomi,6.9,5.9,5.7,5.6,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220537_devicerender_small.jpeg,Xiaomi Redmi Pro,0
+6.4,7.5,Xiaomi,6.5,6.1,6.2,5.7,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220767_devicerender_small.jpeg,Xiaomi Redmi Note 4,0
+6.7,6.5,Xiaomi,7.1,6.9,6.0,6.9,//cdn-files.kimovil.com/phone_front/0001/40/thumb_39106_phone_front_medium.jpeg,Xiaomi Mi5s Plus,0
+6.5,5.6,Xiaomi,7.3,6.8,5.8,6.8,//cdn-files.kimovil.com/phone_front/0001/40/thumb_39140_phone_front_medium.jpeg,Xiaomi Mi5s,0
+7.2,7.5,Xiaomi,7.0,7.0,7.5,7.1,//cdn-files.kimovil.com/phone_front/0001/43/thumb_42484_phone_front_medium.jpeg,Xiaomi Mi Note 2,0
+7.5,7.9,Xiaomi,6.8,7.3,8.6,6.7,//cdn-files.kimovil.com/phone_front/0001/43/thumb_42465_phone_front_medium.jpeg,Xiaomi Mi Mix,0
+4.9,5.3,Xiaomi,4.2,4.9,5.2,4.7,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220801_devicerender_small.jpeg,Xiaomi Redmi 4A,0
+5.9,7.6,Xiaomi,5.5,5.5,5.5,5.2,//cdn-files.kimovil.com/phone_front/0001/44/thumb_43921_phone_front_medium.jpeg,Xiaomi Redmi 4 Prime,0
+5.3,7.1,Xiaomi,5.5,4.6,4.4,4.7,//cdn-files.kimovil.com/phone_front/0001/44/thumb_43921_phone_front_medium.jpeg,Xiaomi Redmi 4,0
+6.3,7.5,Xiaomi,6.0,6.1,6.0,6.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220828_devicerender_small.jpeg,Xiaomi Redmi Note 4X,0
+5.7,7.1,Xiaomi,5.4,5.6,5.2,5.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220917_devicerender_small.jpeg,Xiaomi Redmi 4X,0
+5.2,3.6,Xiaomi,3.9,6.0,6.5,6.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220898_devicerender_small.jpeg,Xiaomi Mi5c,0
+6.9,5.9,Xiaomi,7.6,7.0,6.3,7.8,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220965_devicerender_small.jpeg,Xiaomi Mi6,0
+6.9,8.8,Xiaomi,6.7,6.5,6.4,6.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221030_devicerender_small.jpeg,Xiaomi Mi Max 2,0
+5.9,5.0,Xiaomi,6.3,6.5,5.8,5.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221115_devicerender_small.jpeg,Xiaomi Mi5x,0
+5.1,5.1,Xiaomi,3.9,6.0,6.0,4.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221093_devicerender_small.jpeg,Xiaomi Redmi Note 5A,0
+6.2,5.0,Xiaomi,6.3,6.9,6.4,6.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221115_devicerender_small.jpeg,Xiaomi Mi A1,0
+7.0,6.0,Xiaomi,7.8,7.0,6.9,7.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221263_devicerender_small.jpeg,Xiaomi Mi Note 3,0
+7.2,5.9,Xiaomi,7.3,8.6,6.6,7.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221247_devicerender_small.jpeg,Xiaomi Mi Mix 2,0
+4.8,5.0,Xiaomi,4.2,5.6,4.8,4.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221213_devicerender_small.jpeg,Xiaomi Redmi 5A,0
+5.2,5.1,Xiaomi,4.2,6.0,6.4,4.3,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100244_phone_front_medium.jpeg,Xiaomi Redmi Y1 Lite,0
+5.3,4.6,Xiaomi,4.6,6.0,6.4,5.0,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100220_phone_front_medium.jpeg,Xiaomi Redmi Y1,0
+5.8,6.9,Xiaomi,4.1,6.3,6.2,5.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221314_devicerender_small.jpeg,Xiaomi Redmi 5 Plus,0
+5.3,5.7,Xiaomi,3.8,6.0,5.5,5.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221311_devicerender_small.jpeg,Xiaomi Redmi 5,0
+6.4,6.9,Xiaomi,6.8,5.6,6.3,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221349_devicerender_small.jpeg,Xiaomi Redmi Note 5 Pro,0
+6.7,6.9,Xiaomi,7.1,6.7,6.3,6.4,//cdn-files.kimovil.com/phone_front/0002/27/thumb_126184_phone_front_medium.jpeg,Xiaomi Redmi Note 5,0
+7.6,5.9,Xiaomi,7.9,8.9,7.3,8.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221414_devicerender_small.jpeg,Xiaomi Mi Mix 2s,0
+6.1,4.4,Xiaomi,7.2,6.0,6.1,6.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221499_devicerender_small.jpeg,Xiaomi Mi 6x,0
+5.7,6.8,Xiaomi,4.3,7.0,4.8,5.6,//cdn-files.kimovil.com/phone_front/0002/06/thumb_105977_phone_front_medium.jpeg,Xiaomi R1,0
+5.8,5.0,Xiaomi,6.8,6.1,5.2,6.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221455_devicerender_small.jpeg,Xiaomi Redmi S2,0
+7.5,5.8,Xiaomi,8.0,7.8,7.9,8.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221542_devicerender_small.jpeg,Xiaomi Mi8,0
+6.8,5.2,Xiaomi,7.5,6.5,7.3,7.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221548_devicerender_small.jpeg,Xiaomi Mi8 SE,0
+5.5,5.0,Xiaomi,6.8,4.9,5.4,5.5,//cdn-files.kimovil.com/phone_front/0002/39/thumb_138620_phone_front_medium.jpeg,Xiaomi Redmi Y2,0
+4.9,5.2,Xiaomi,4.2,5.5,4.5,5.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221608_devicerender_small.jpeg,Xiaomi Redmi 6A,0
+5.5,4.3,Xiaomi,6.6,5.8,4.8,5.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221616_devicerender_small.jpeg,Xiaomi Redmi 6,0
+6.4,6.9,Xiaomi,6.6,6.3,6.3,6.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221605_devicerender_small.jpeg,Xiaomi Redmi 6 Pro,0
+7.3,8.9,Xiaomi,7.4,7.1,6.5,6.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221682_devicerender_small.jpeg,Xiaomi Mi Max 3,0
+6.3,4.4,Xiaomi,7.3,6.6,6.6,6.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221598_devicerender_small.jpeg,Xiaomi Mi A2,0
+6.6,6.9,Xiaomi,6.7,6.8,6.5,5.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221600_devicerender_small.jpeg,Xiaomi Mi A2 Lite,0
+7.3,6.9,Xiaomi,7.5,6.7,7.3,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221573_devicerender_small.jpeg,Xiaomi Pocophone F1,0
+6.9,6.9,Xiaomi,7.3,6.9,6.9,6.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221637_devicerender_small.jpeg,Xiaomi Redmi Note 6 Pro,0
+7.0,5.6,Xiaomi,7.5,7.2,7.4,7.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221630_devicerender_small.jpeg,Xiaomi Mi8 Lite,0
+7.8,5.4,Xiaomi,8.1,9.3,8.1,8.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221703_devicerender_small.jpeg,Xiaomi Mi Mix 3,0
+7.3,4.4,Xiaomi,8.0,8.0,8.0,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221746_devicerender_small.jpeg,Xiaomi Mi8 Pro,0
+5.8,4.4,Xiaomi,5.0,6.7,6.7,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221754_devicerender_small.jpeg,Xiaomi Mi Play,0
+7.1,6.8,Xiaomi,7.3,7.1,7.4,7.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221750_devicerender_small.jpeg,Xiaomi Redmi Note 7,0
+4.9,5.0,Xiaomi,3.8,6.2,5.8,3.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221846_devicerender_small.jpeg,Xiaomi Redmi Go,0
+7.4,5.0,Xiaomi,8.4,7.6,8.6,7.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221822_devicerender_small.jpeg,Xiaomi Mi 9 SE,0
+7.8,5.7,Xiaomi,8.1,8.0,8.7,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221843_devicerender_small.jpeg,Xiaomi Mi 9,0
+7.8,6.5,Xiaomi,8.1,7.8,8.0,8.4,//cdn-files.kimovil.com/devicerender/0003/28/thumb_227732_devicerender_small.jpeg,Xiaomi Mi Mix 3 5G,0
+7.3,7.0,Xiaomi,8.0,6.7,7.4,7.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221750_devicerender_small.jpeg,Xiaomi Redmi Note 7 Pro,0
+6.3,7.0,Xiaomi,4.9,6.2,6.9,6.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221914_devicerender_small.jpeg,Xiaomi Redmi 7,0
+6.5,7.0,Xiaomi,5.4,6.6,7.1,6.4,//cdn-files.kimovil.com/phone_front/0003/05/thumb_204661_phone_front_medium.jpeg,Xiaomi Redmi Y3,0
+6.9,6.8,Xiaomi,7.5,5.8,7.4,7.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221938_devicerender_small.jpeg,Xiaomi Redmi Note 7S,0
+5.8,3.9,Xiaomi,6.7,5.3,6.6,6.7,//cdn-files.kimovil.com/phone_front/0002/78/thumb_177962_phone_front_medium.jpeg,Xiaomi Redmi 7 Pro,0
+5.5,7.3,Xiaomi,4.8,4.9,4.5,6.0,//cdn-files.kimovil.com/devicerender/0003/37/thumb_236879_devicerender_small.jpeg,Xiaomi Redmi 7A,0
+8.0,7.2,Xiaomi,8.4,7.6,8.6,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221931_devicerender_small.jpeg,Xiaomi Redmi K20 Pro,0
+7.9,7.3,Xiaomi,8.3,7.3,8.6,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221931_devicerender_small.jpeg,Xiaomi Redmi K20,0
+7.9,7.3,Xiaomi,8.0,7.8,8.6,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221931_devicerender_small.jpeg,Xiaomi Mi 9T,0
+7.7,7.3,Xiaomi,8.1,7.1,8.3,7.6,//cdn-files.kimovil.com/devicerender/0003/27/thumb_226986_devicerender_small.jpeg,Xiaomi CC9,0
+7.2,7.4,Xiaomi,8.0,6.1,7.5,7.2,//cdn-files.kimovil.com/devicerender/0003/29/thumb_228892_devicerender_small.jpeg,Xiaomi CC9e,0
+7.5,7.4,Xiaomi,8.0,7.3,7.4,7.2,//cdn-files.kimovil.com/devicerender/0003/31/thumb_230078_devicerender_small.jpeg,Xiaomi Mi A3,0
+8.1,7.2,Xiaomi,8.4,7.9,8.6,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221931_devicerender_small.jpeg,Xiaomi Mi 9T Pro,0
+8.0,7.9,Xiaomi,8.0,7.8,8.2,7.9,//cdn-files.kimovil.com/devicerender/0003/54/thumb_253879_devicerender_small.jpeg,Xiaomi Redmi Note 8 Pro,0
+7.3,7.1,Xiaomi,7.7,7.1,7.2,7.2,//cdn-files.kimovil.com/devicerender/0003/70/thumb_269266_devicerender_small.jpeg,Xiaomi Redmi Note 8,0
+7.8,7.3,Xiaomi,8.1,7.8,8.4,7.6,//cdn-files.kimovil.com/devicerender/0003/85/thumb_284593_devicerender_small.jpeg,Xiaomi Mi 9 Lite,0
+8.2,7.4,Xiaomi,8.4,8.2,8.5,8.6,//cdn-files.kimovil.com/devicerender/0003/69/thumb_268746_devicerender_small.jpeg,Xiaomi Mi 9 Pro,0
+8.2,7.0,Xiaomi,9.3,7.4,8.3,9.0,//cdn-files.kimovil.com/devicerender/0003/70/thumb_269267_devicerender_small.jpeg,Xiaomi Mi Mix Alpha,0
+6.8,8.4,Xiaomi,6.9,6.0,6.5,6.1,//cdn-files.kimovil.com/devicerender/0004/17/thumb_316295_devicerender_small.jpeg,Xiaomi Redmi 8A,0
+7.1,8.4,Xiaomi,7.3,6.5,6.8,6.3,//cdn-files.kimovil.com/devicerender/0003/68/thumb_267578_devicerender_small.jpeg,Xiaomi Redmi 8,0
+8.4,8.8,Xiaomi,9.3,7.4,8.8,7.8,//cdn-files.kimovil.com/devicerender/0003/91/thumb_290770_devicerender_small.jpeg,Xiaomi Mi CC9 Pro,0
+8.5,8.8,Xiaomi,9.3,8.0,8.8,7.8,//cdn-files.kimovil.com/devicerender/0003/91/thumb_290770_devicerender_small.jpeg,Xiaomi Mi Note 10,0
+7.3,7.1,Xiaomi,7.7,7.7,6.6,7.2,//cdn-files.kimovil.com/devicerender/0003/91/thumb_290946_devicerender_small.jpeg,Xiaomi redmi Note 8T,0
+8.2,8.0,Xiaomi,8.8,7.6,8.4,8.0,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322283_devicerender_small.jpeg,Xiaomi Redmi K30 5G,0
+8.0,8.0,Xiaomi,8.8,7.0,8.4,7.9,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322283_devicerender_small.jpeg,Xiaomi Redmi K30,0
+8.0,8.0,Xiaomi,8.8,6.9,8.5,7.9,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322283_devicerender_small.jpeg,Xiaomi Poco X2,0
+6.2,8.4,Xiaomi,4.9,4.7,6.7,6.1,//cdn-files.kimovil.com/phone_front/0003/54/thumb_253560_phone_front_medium.jpeg,Xiaomi Redmi 8A Dual,0
+8.8,8.1,Xiaomi,9.6,8.0,9.0,9.2,//cdn-files.kimovil.com/phone_front/0004/24/thumb_323526_phone_front_medium.jpeg,Xiaomi Mi 10 Pro,0
+8.7,8.3,Xiaomi,9.3,8.0,9.0,9.0,//cdn-files.kimovil.com/phone_front/0004/24/thumb_323504_phone_front_medium.jpeg,Xiaomi Mi 10,0
+7.6,8.7,Xiaomi,7.4,6.1,8.0,7.8,//cdn-files.kimovil.com/phone_front/0004/36/thumb_335705_phone_front_medium.jpeg,Xiaomi Redmi Note 9 Pro Max,0
+7.7,8.7,Xiaomi,7.9,6.1,8.0,7.8,//cdn-files.kimovil.com/phone_front/0004/36/thumb_335705_phone_front_medium.jpeg,Xiaomi Redmi Note 9 Pro,0
+8.0,8.7,Xiaomi,7.8,7.4,8.1,7.8,//cdn-files.kimovil.com/phone_front/0004/36/thumb_335705_phone_front_medium.jpeg,Xiaomi Redmi Note 9S,0
+8.4,8.1,Xiaomi,8.4,7.8,8.9,9.0,//cdn-files.kimovil.com/phone_front/0004/42/thumb_341641_phone_front_medium.jpeg,Xiaomi Redmi K30 Pro,0
+7.7,7.6,Xiaomi,7.1,8.0,7.9,8.0,//cdn-files.kimovil.com/phone_front/0004/43/thumb_342735_phone_front_medium.jpeg,Xiaomi Mi 10 Lite 5G,0
+7.6,7.5,Xiaomi,7.4,7.5,7.9,7.9,//cdn-files.kimovil.com/phone_front/0004/56/thumb_355680_phone_front_medium.jpeg,Xiaomi Mi 10 Youth Edition,0
+7.2,8.4,Xiaomi,6.1,7.0,7.3,7.3,//cdn-files.kimovil.com/phone_front/0004/53/thumb_352892_phone_front_medium.jpeg,Xiaomi Redmi Note 9,0
+8.1,8.0,Xiaomi,8.8,7.6,8.1,8.0,//cdn-files.kimovil.com/phone_front/0003/88/thumb_287063_phone_front_medium.jpeg,Xiaomi Pocophone F2,0
+3.7,9.1,Apple,3.2,2.7,2.0,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1149_phone_front_medium.jpeg,Apple iPhone 4,0
+3.4,6.1,Apple,3.4,2.9,2.2,2.2,//cdn-files.kimovil.com/phone_front/0001/01/thumb_982_phone_front_medium.jpeg,Apple iPhone 4S,0
+7.8,7.3,Samsung,7.8,8.0,8.0,8.0,//cdn-files.kimovil.com/phone_front/0003/87/thumb_286643_phone_front_medium.jpeg,Samsung Galaxy A51 5G,0
+6.7,6.0,Samsung,6.1,8.3,6.4,6.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221302_devicerender_small.jpeg,Samsung Galaxy A8+,0
+6.2,4.7,Samsung,7.0,7.3,5.9,6.1,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5698_phone_front_medium.jpeg,Samsung Galaxy Note 5,0
+4.2,3.2,Samsung,5.0,4.5,4.8,3.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1092_phone_front_medium.jpeg,Samsung Galaxy S4 Duos I9502,0
+2.1,2.6,Samsung,1.8,2.4,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/01/thumb_934_phone_front_medium.jpeg,Samsung Galaxy Ace,0
+1.9,2.0,Samsung,1.8,2.3,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1155_phone_front_medium.jpeg,Samsung Galaxy Ace Plus,0
+2.1,1.9,Samsung,1.8,3.3,1.8,1.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1068_phone_front_medium.jpeg,Samsung Galaxy Ace 2,0
+3.2,2.5,Samsung,3.3,4.1,3.8,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1127_phone_front_medium.jpeg,Samsung Galaxy S3,0
+3.1,2.3,Samsung,2.7,4.3,3.7,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1913_phone_front_medium.jpeg,Samsung Galaxy S3 LTE I9305,0
+2.0,3.1,Samsung,1.7,1.8,1.7,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1019_phone_front_medium.jpeg,Samsung Galaxy Ace Duos,0
+2.9,2.7,Samsung,2.1,3.9,3.5,2.4,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2470_phone_front_medium.jpeg,Samsung Ativ S,0
+2.3,1.9,Samsung,1.8,3.7,2.1,1.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_941_phone_front_medium.jpeg,Samsung Galaxy S3 mini,0
+2.5,2.7,Samsung,2.7,3.1,1.9,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_970_phone_front_medium.jpeg,Samsung Galaxy Grand,0
+2.5,2.7,Samsung,2.7,3.2,1.9,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_970_phone_front_medium.jpeg,Samsung Galaxy Grand I9082,0
+2.7,2.8,Samsung,1.9,4.9,2.1,2.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1040_phone_front_medium.jpeg,Samsung Galaxy Express,0
+2.5,1.9,Samsung,2.1,4.0,2.2,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1064_phone_front_medium.jpeg,Samsung Galaxy S2 Plus,0
+2.1,2.1,Samsung,1.8,2.7,2.4,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1816_phone_front_medium.jpeg,Samsung Galaxy Xcover 2,0
+2.0,2.1,Samsung,1.7,2.6,1.7,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1145_phone_front_medium.jpeg,Samsung Galaxy Young,0
+4.3,3.2,Samsung,5.5,4.4,4.9,3.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1075_phone_front_medium.jpeg,Samsung Galaxy S4 I9500,0
+1.8,1.8,Samsung,1.8,1.8,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2995_phone_front_medium.jpeg,Samsung Galaxy Trend II,0
+3.8,5.5,Samsung,2.4,6.0,2.5,2.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1121_phone_front_medium.jpeg,Samsung Galaxy Mega 6.3,0
+2.6,3.6,Samsung,2.3,3.1,2.1,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_993_phone_front_medium.jpeg,Samsung Galaxy Mega 5.8,0
+4.8,3.4,Samsung,4.9,6.8,5.5,3.6,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1173_phone_front_medium.jpeg,Samsung Galaxy S4 I9505,0
+2.1,2.1,Samsung,1.8,2.5,2.2,1.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1097_phone_front_medium.jpeg,Samsung Galaxy Core,0
+4.8,3.4,Samsung,5.0,6.8,5.3,3.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1101_phone_front_medium.jpeg,Samsung Galaxy S4 Active,0
+3.8,3.7,Samsung,7.3,3.9,1.7,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1017_phone_front_medium.jpeg,Samsung Galaxy S4 zoom,0
+2.9,2.3,Samsung,2.7,3.3,3.3,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1085_phone_front_medium.jpeg,Samsung Galaxy S4 mini I9190,0
+2.8,2.3,Samsung,2.7,3.5,3.3,2.4,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1257_phone_front_medium.jpeg,Samsung Galaxy S4 mini I9192 Duos,0
+3.4,2.3,Samsung,2.7,5.8,3.3,2.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1174_phone_front_medium.jpeg,Samsung Galaxy S4 Mini I9195 LTE,0
+1.9,1.8,Samsung,1.8,1.8,2.1,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1005_phone_front_medium.jpeg,Samsung Galaxy Ace 3,0
+5.5,8.2,Samsung,5.5,4.3,5.2,4.1,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1047_phone_front_medium.jpeg,Samsung Galaxy Note 3 N9000,0
+5.2,5.0,Samsung,5.5,6.1,5.0,4.5,//cdn-files.kimovil.com/phone_front/0001/01/thumb_929_phone_front_medium.jpeg,Samsung Galaxy Note 3 N9005 LTE,0
+2.2,2.4,Samsung,2.0,2.4,2.4,1.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3089_phone_front_medium.jpeg,Samsung Core Plus,0
+2.8,2.7,Samsung,1.8,4.6,2.1,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1131_phone_front_medium.jpeg,Samsung Galaxy Express 2,0
+2.7,3.6,Samsung,2.1,3.3,2.4,2.3,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1132_phone_front_medium.jpeg,Samsung Galaxy Grand 2,0
+2.1,1.9,Samsung,2.0,2.5,2.3,1.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3004_phone_front_medium.jpeg,Samsung Galaxy Trend Plus,0
+2.2,2.6,Samsung,1.8,2.7,1.9,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1258_phone_front_medium.jpeg,Samsung Galaxy Grand Neo,0
+2.6,2.6,Samsung,1.8,4.5,2.1,1.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_988_phone_front_medium.jpeg,Samsung Galaxy Core LTE,0
+4.2,4.7,Samsung,3.3,6.2,3.3,3.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1014_phone_front_medium.jpeg,Samsung Galaxy Note 3 Neo LTE+,0
+5.5,4.2,Samsung,6.0,6.3,6.6,4.4,//cdn-files.kimovil.com/phone_front/0001/01/thumb_967_phone_front_medium.jpeg,Samsung Galaxy S5,0
+2.0,2.1,Samsung,1.9,2.1,2.1,1.7,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2999_phone_front_medium.jpeg,Samsung Galaxy Trend Lite,0
+2.1,1.8,Samsung,1.8,3.0,2.1,1.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1002_phone_front_medium.jpeg,Samsung Galaxy S3 Mini VE,0
+2.9,2.5,Samsung,2.7,3.3,3.4,2.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1783_phone_front_medium.jpeg,Samsung Galaxy S3 Neo,0
+3.9,2.9,Samsung,7.6,3.7,1.8,3.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1281_phone_front_medium.jpeg,Samsung Galaxy K zoom,0
+4.9,3.8,Samsung,6.0,4.4,6.0,4.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1181_phone_front_medium.jpeg,Samsung Galaxy S5 Octa core,0
+4.9,3.6,Samsung,6.0,4.6,6.4,3.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1001_phone_front_medium.jpeg,Samsung Galaxy S5 Duos,0
+3.8,2.5,Samsung,2.7,5.3,5.6,2.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1169_phone_front_medium.jpeg,Samsung Galaxy S5 Mini,0
+2.0,1.8,Samsung,2.1,2.2,1.9,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1887_phone_front_medium.jpeg,Samsung Galaxy Ace 4,0
+2.1,2.5,Samsung,1.8,2.4,2.0,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1827_phone_front_medium.jpeg,Samsung Galaxy Core 2,0
+2.1,2.5,Samsung,1.8,2.5,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1752_phone_front_medium.jpeg,Samsung Galaxy Young 2,0
+4.8,3.9,Samsung,4.1,6.3,5.5,4.2,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8170_phone_front_medium.jpeg,Samsung Galaxy Alpha,0
+3.2,3.7,Samsung,2.6,4.7,2.2,2.7,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2615_phone_front_medium.jpeg,Samsung Galaxy Grand Prime,0
+3.4,3.4,Samsung,3.0,5.4,2.3,3.1,//cdn-files.kimovil.com/phone_front/0001/01/thumb_992_phone_front_medium.jpeg,Samsung Galaxy Mega 2,0
+6.7,8.9,Samsung,6.7,6.1,6.4,5.3,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1757_phone_front_medium.jpeg,Samsung Galaxy Note Edge,0
+6.3,7.5,Samsung,6.9,6.2,6.1,4.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1750_phone_front_medium.jpeg,Samsung Galaxy Note 4,0
+4.4,2.9,Samsung,5.6,6.0,4.6,3.1,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2537_phone_front_medium.jpeg,Samsung Galaxy A5,0
+3.8,2.1,Samsung,3.1,6.4,4.6,2.8,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2514_phone_front_medium.jpeg,Samsung Galaxy A3,0
+5.5,3.7,Samsung,6.0,6.7,6.5,4.5,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6207_phone_front_medium.jpeg,Samsung Galaxy S5 Plus,0
+2.7,2.3,Samsung,2.2,3.4,2.8,2.6,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3043_phone_front_medium.jpeg,Samsung Galaxy Core Prime,0
+2.3,2.6,Samsung,2.2,2.7,1.9,2.0,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3058_phone_front_medium.jpeg,Samsung Galaxy Grand Neo Plus,0
+3.2,3.0,Samsung,2.5,3.6,3.7,3.1,//cdn-files.kimovil.com/phone_front/0001/12/thumb_11925_phone_front_medium.jpeg,Samsung Galaxy E5,0
+2.2,2.5,Samsung,1.9,2.5,2.2,1.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3675_phone_front_medium.jpeg,Samsung Galaxy J1,0
+3.9,4.5,Samsung,3.8,4.5,3.5,3.1,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3246_phone_front_medium.jpeg,Samsung Galaxy E7,0
+4.1,3.2,Samsung,2.7,5.0,6.1,3.7,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3101_phone_front_medium.jpeg,Samsung Galaxy A7,0
+2.5,1.8,Samsung,3.5,2.5,2.2,2.4,//cdn-files.kimovil.com/phone_front/0001/22/thumb_21916_phone_front_medium.jpeg,Samsung Galaxy J1 mini,0
+3.5,2.9,Samsung,2.4,4.8,4.9,2.4,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3943_phone_front_medium.jpeg,Samsung Galaxy Xcover 3,0
+6.1,3.3,Samsung,7.1,7.5,6.5,6.1,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3297_phone_front_medium.jpeg,Samsung Galaxy S6,0
+5.8,3.4,Samsung,6.9,6.2,6.8,5.9,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3255_phone_front_medium.jpeg,Samsung Galaxy S6 Edge,0
+3.6,3.5,Samsung,4.3,3.9,3.3,3.0,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4962_phone_front_medium.jpeg,Samsung Galaxy J5,0
+6.4,6.1,Samsung,6.9,7.0,6.9,5.3,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31839_phone_front_medium.jpeg,Samsung Galaxy S6 Active,0
+5.2,4.1,Samsung,6.4,5.9,6.0,3.6,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4939_phone_front_medium.jpeg,Samsung Galaxy A8,0
+6.2,4.7,Samsung,6.9,6.8,6.8,5.8,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5199_phone_front_medium.jpeg,Samsung Galaxy S6 edge+,0
+4.1,4.1,Samsung,4.3,4.5,3.4,4.2,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5688_phone_front_medium.jpeg,Samsung Galaxy J7,0
+2.9,2.3,Samsung,3.5,2.7,3.4,2.8,//cdn-files.kimovil.com/phone_front/0001/15/thumb_14384_phone_front_medium.jpeg,Samsung Galaxy J2,0
+3.5,3.6,Samsung,3.6,4.3,3.3,2.9,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6139_phone_front_medium.jpeg,Samsung Galaxy On5,0
+3.8,4.8,Samsung,3.9,4.1,3.2,3.1,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6133_phone_front_medium.jpeg,Samsung Galaxy On7,0
+3.5,3.5,Samsung,2.5,4.4,3.8,3.2,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8417_phone_front_medium.jpeg,Samsung Galaxy J3,0
+5.9,6.4,Samsung,6.5,6.7,4.6,5.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221721_devicerender_small.jpeg,Samsung Galaxy A9 (2016),0
+5.5,5.3,Samsung,5.5,6.3,5.8,4.6,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7755_phone_front_medium.jpeg,Samsung Galaxy A7 (2016),0
+4.4,3.1,Samsung,4.3,5.4,5.5,3.6,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220236_devicerender_small.jpeg,Samsung Galaxy A3 (2016),0
+5.2,4.0,Samsung,5.5,5.7,6.0,4.6,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7562_phone_front_medium.jpeg,Samsung Galaxy A5 (2016),0
+3.2,2.5,Samsung,3.5,4.6,2.7,2.8,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220237_devicerender_small.jpeg,Samsung Galaxy J1 (2016),0
+6.8,4.8,Samsung,7.3,7.9,7.2,6.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220304_devicerender_small.jpeg,Samsung Galaxy S7,0
+7.1,6.2,Samsung,7.5,7.9,7.2,6.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220303_devicerender_small.jpeg,Samsung Galaxy S7 Edge,0
+4.6,5.4,Samsung,5.7,5.1,3.5,3.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220349_devicerender_small.jpeg,Samsung Galaxy J5 (2016),0
+4.7,5.8,Samsung,4.4,4.8,3.6,4.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220347_devicerender_small.jpeg,Samsung Galaxy J7 (2016),0
+6.4,8.1,Samsung,6.5,6.7,5.4,5.4,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7414_phone_front_medium.jpeg,Samsung Galaxy A9 Pro,0
+3.5,3.5,Samsung,2.4,4.8,3.8,3.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220247_devicerender_small.jpeg,Samsung Galaxy J3 (2016),0
+5.5,5.6,Samsung,4.7,6.3,5.2,5.5,//cdn-files.kimovil.com/phone_front/0001/33/thumb_32346_phone_front_medium.jpeg,Samsung Galaxy C7,0
+4.8,3.1,Samsung,4.7,6.3,4.9,5.0,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31161_phone_front_medium.jpeg,Samsung Galaxy C5,0
+7.2,7.5,Samsung,7.3,7.6,7.0,6.7,//cdn-files.kimovil.com/phone_front/0001/30/thumb_29840_phone_front_medium.jpeg,Samsung Galaxy S7 Active,0
+3.8,3.5,Samsung,3.6,4.3,4.2,3.6,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220942_devicerender_small.jpeg,Samsung Galaxy J3 Pro,0
+3.8,3.6,Samsung,3.7,4.9,2.6,4.1,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220620_devicerender_small.jpeg,Samsung Galaxy J2 Prime,0
+6.1,1.7,Samsung,7.2,8.0,7.3,6.5,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31438_phone_front_medium.jpeg,Samsung Galaxy Note 7,0
+5.6,5.7,Samsung,6.5,5.2,5.6,4.9,//cdn-files.kimovil.com/phone_front/0001/66/thumb_65004_phone_front_medium.jpeg,Samsung Galaxy J7 Prime,0
+5.3,5.6,Samsung,4.6,6.5,4.3,5.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221321_devicerender_small.jpeg,Samsung Galaxy A8 (2016),0
+4.7,5.5,Samsung,4.4,5.0,4.1,4.7,//cdn-files.kimovil.com/phone_front/0002/59/thumb_158463_phone_front_medium.jpeg,Samsung Galaxy On8,0
+4.5,3.4,Samsung,6.4,4.9,3.6,4.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220593_devicerender_small.jpeg,Samsung Galaxy J5 Prime,0
+3.8,3.6,Samsung,3.6,5.1,2.8,4.1,//cdn-files.kimovil.com/phone_front/0001/46/thumb_45165_phone_front_medium.jpeg,Samsung Galaxy Grand Prime+,0
+5.2,5.7,Samsung,4.1,5.2,5.9,5.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148501_phone_front_medium.jpeg,Samsung Galaxy On Nxt,0
+6.3,6.4,Samsung,5.9,6.6,6.5,6.1,//cdn-files.kimovil.com/phone_front/0001/42/thumb_41921_phone_front_medium.jpeg,Samsung Galaxy C9,0
+4.1,3.2,Samsung,3.0,5.3,4.4,4.8,//cdn-files.kimovil.com/phone_front/0001/65/thumb_64991_phone_front_medium.jpeg,Samsung Galaxy On5 2016,0
+5.4,3.0,Samsung,6.4,6.7,6.2,4.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220754_devicerender_small.jpeg,Samsung Galaxy A3 (2017),0
+6.1,5.4,Samsung,6.1,7.5,6.1,5.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220753_devicerender_small.jpeg,Samsung Galaxy A5 (2017),0
+5.3,5.1,Samsung,4.8,6.7,4.5,5.6,//cdn-files.kimovil.com/phone_front/0001/65/thumb_64678_phone_front_medium.jpeg,Samsung Galaxy C7 Pro,0
+3.6,3.6,Samsung,3.7,4.4,2.5,3.9,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148834_phone_front_medium.jpeg,Samsung Galaxy J2 Ace,0
+5.9,6.2,Samsung,4.6,7.7,5.9,5.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220772_devicerender_small.jpeg,Samsung Galaxy A7 (2017),0
+4.9,4.8,Samsung,4.1,5.5,5.5,4.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220886_devicerender_small.jpeg,Samsung Galaxy Xcover 4,0
+7.6,6.1,Samsung,7.6,8.0,8.7,7.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220873_devicerender_small.jpeg,Samsung Galaxy S8+,0
+7.4,5.1,Samsung,7.6,8.1,8.9,7.4,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220881_devicerender_small.jpeg,Samsung Galaxy S8,0
+5.3,3.0,Samsung,4.7,6.9,6.1,5.6,//cdn-files.kimovil.com/phone_front/0002/37/thumb_136267_phone_front_medium.jpeg,Samsung Galaxy C5 Pro,0
+2.9,2.4,Samsung,3.7,3.0,2.3,3.1,//cdn-files.kimovil.com/phone_front/0002/50/thumb_149293_phone_front_medium.jpeg,Samsung Z4,0
+4.4,3.4,Samsung,4.0,6.3,3.5,4.7,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220912_devicerender_small.jpeg,Samsung Galaxy J3 (2017),0
+2.8,1.7,Samsung,3.5,4.4,2.1,2.3,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220622_devicerender_small.jpeg,Samsung Galaxy J1 mini Prime,0
+5.4,5.0,Samsung,6.5,6.7,3.6,5.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221082_devicerender_small.jpeg,Samsung Galaxy J5 (2017),0
+5.3,6.2,Samsung,4.7,6.2,4.2,5.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221078_devicerender_small.jpeg,Samsung Galaxy J7 (2017),0
+5.1,5.5,Samsung,3.3,6.0,5.2,5.3,//cdn-files.kimovil.com/phone_front/0001/82/thumb_81662_phone_front_medium.jpeg,Samsung Galaxy C7 2017,0
+5.1,5.5,Samsung,4.8,5.1,4.4,5.6,//cdn-files.kimovil.com/phone_front/0001/79/thumb_78273_phone_front_medium.jpeg,Samsung Galaxy On Max,0
+5.1,5.5,Samsung,4.8,5.1,4.8,5.3,//cdn-files.kimovil.com/phone_front/0001/79/thumb_78268_phone_front_medium.jpeg,Samsung Galaxy J7 Max,0
+4.6,4.9,Samsung,4.4,4.8,4.1,4.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221107_devicerender_small.jpeg,Samsung Galaxy J7 Nxt,0
+7.0,5.4,Samsung,7.2,8.0,7.4,7.1,//cdn-files.kimovil.com/phone_front/0001/32/thumb_31438_phone_front_medium.jpeg,Samsung Galaxy Note FE,0
+7.6,7.4,Samsung,7.7,8.1,7.6,7.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221197_devicerender_small.jpeg,Samsung Galaxy S8 Active,0
+7.5,6.1,Samsung,7.2,8.3,8.3,7.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221099_devicerender_small.jpeg,Samsung Galaxy Note 8,0
+5.0,4.4,Samsung,5.6,5.1,4.5,5.6,//cdn-files.kimovil.com/phone_front/0002/03/thumb_102185_phone_front_medium.jpeg,Samsung Galaxy J7+,0
+5.2,4.3,Samsung,5.6,6.0,4.9,5.4,//cdn-files.kimovil.com/phone_front/0001/96/thumb_95798_phone_front_medium.jpeg,Samsung Galaxy C8,0
+3.5,3.6,Samsung,2.8,4.5,2.8,4.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221296_devicerender_small.jpeg,Samsung Galaxy J2 (2018),0
+6.3,4.5,Samsung,5.9,8.3,6.5,6.5,//cdn-files.kimovil.com/phone_front/0002/21/thumb_120693_phone_front_medium.jpeg,Samsung Galaxy A8 (2018),0
+5.2,5.7,Samsung,4.4,5.2,5.3,5.2,//cdn-files.kimovil.com/phone_front/0002/85/thumb_184325_phone_front_medium.jpeg,Samsung Galaxy On7 Prime (2018),0
+3.9,3.7,Samsung,3.7,4.4,4.3,3.5,//cdn-files.kimovil.com/phone_front/0002/60/thumb_159224_phone_front_medium.jpeg,Samsung Galaxy J2 Pro,0
+7.8,6.1,Samsung,8.2,8.3,8.2,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221376_devicerender_small.jpeg,Samsung Galaxy S9+,0
+7.5,4.7,Samsung,7.8,8.4,8.5,7.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221380_devicerender_small.jpeg,Samsung Galaxy S9,0
+5.2,5.7,Samsung,4.4,5.2,5.4,5.2,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148590_phone_front_medium.jpeg,Samsung Galaxy J7 Prime 2,0
+3.9,3.9,Samsung,3.6,4.8,3.3,4.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221659_devicerender_small.jpeg,Samsung Galaxy J2 Core,0
+5.6,6.0,Samsung,5.9,6.2,4.5,5.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221451_devicerender_small.jpeg,Samsung Galaxy A6 Plus (2018),0
+5.1,4.9,Samsung,4.9,6.5,3.8,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221461_devicerender_small.jpeg,Samsung Galaxy A6 (2018),0
+4.6,5.4,Samsung,4.0,4.8,4.0,4.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221517_devicerender_small.jpeg,Samsung Galaxy J4 (2018),0
+5.6,4.9,Samsung,5.6,7.5,4.7,5.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221558_devicerender_small.jpeg,Samsung Galaxy J6 (2018),0
+6.6,4.7,Samsung,6.4,7.5,8.0,6.5,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141167_phone_front_medium.jpeg,Samsung Galaxy S Luxury Edition,0
+6.7,6.2,Samsung,7.0,7.4,6.4,6.5,//cdn-files.kimovil.com/phone_front/0002/44/thumb_143157_phone_front_medium.jpeg,Samsung Galaxy A9 Star,0
+6.2,6.0,Samsung,5.8,7.8,5.8,5.7,//cdn-files.kimovil.com/phone_front/0002/44/thumb_143152_phone_front_medium.jpeg,Samsung Galaxy A9 Star Lite,0
+5.3,5.0,Samsung,5.0,7.1,3.7,5.5,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148278_phone_front_medium.jpeg,Samsung Galaxy J7 (2018),0
+6.3,6.1,Samsung,7.4,7.4,5.0,5.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221539_devicerender_small.jpeg,Samsung Galaxy J8,0
+6.7,6.2,Samsung,6.6,7.4,6.4,6.7,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148626_phone_front_medium.jpeg,Samsung Galaxy A8 Star,0
+4.9,4.9,Samsung,4.1,4.8,5.1,5.5,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148510_phone_front_medium.jpeg,Samsung Galaxy On6,0
+4.9,5.6,Samsung,5.0,5.4,4.0,4.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221634_devicerender_small.jpeg,Samsung Galaxy J4+,0
+8.0,7.2,Samsung,8.2,8.5,8.3,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221686_devicerender_small.jpeg,Samsung Galaxy Note 9,0
+6.3,5.5,Samsung,6.8,7.5,5.1,6.6,//cdn-files.kimovil.com/phone_front/0002/60/thumb_159046_phone_front_medium.jpeg,Samsung Galaxy A7 (2018),0
+5.2,5.7,Samsung,5.2,6.0,4.0,5.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221738_devicerender_small.jpeg,Samsung Galaxy J6+,0
+7.1,6.4,Samsung,7.1,8.2,6.8,7.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221721_devicerender_small.jpeg,Samsung Galaxy A9 (2018),0
+4.5,5.6,Samsung,3.8,4.7,4.3,4.0,//cdn-files.kimovil.com/phone_front/0003/06/thumb_205224_phone_front_medium.jpeg,Samsung Galaxy J4 Core,0
+5.6,5.5,Samsung,4.4,6.4,5.0,6.9,//cdn-files.kimovil.com/phone_front/0002/75/thumb_174774_phone_front_medium.jpeg,Samsung Galaxy A6s,0
+7.0,5.8,Samsung,6.5,7.4,8.0,7.4,//cdn-files.kimovil.com/phone_front/0002/76/thumb_175670_phone_front_medium.jpeg,Samsung Galaxy A8s,0
+7.0,5.8,Samsung,6.8,7.2,8.0,7.4,//cdn-files.kimovil.com/phone_front/0002/76/thumb_175670_phone_front_medium.jpeg,Samsung Galaxy A9 Pro (2019),0
+5.7,5.9,Samsung,5.1,5.7,6.3,5.3,//cdn-files.kimovil.com/phone_front/0002/89/thumb_188974_phone_front_medium.jpeg,Samsung Galaxy M10,0
+6.9,8.4,Samsung,5.3,6.8,7.2,6.6,//cdn-files.kimovil.com/devicerender/0003/44/thumb_243823_devicerender_small.jpeg,Samsung Galaxy M20,0
+8.0,8.1,Samsung,7.4,8.9,6.6,8.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221819_devicerender_small.jpeg,Samsung Galaxy Fold,0
+8.8,8.0,Samsung,8.7,9.4,9.2,8.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221951_devicerender_small.jpeg,Samsung Galaxy S10 5G,0
+7.8,5.3,Samsung,8.2,9.0,8.5,8.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221853_devicerender_small.jpeg,Samsung Galaxy S10e,0
+8.5,7.6,Samsung,8.6,9.0,9.1,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221849_devicerender_small.jpeg,Samsung Galaxy S10 Plus,0
+8.2,6.0,Samsung,8.3,9.0,9.3,8.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221858_devicerender_small.jpeg,Samsung Galaxy S10,0
+7.1,7.0,Samsung,6.9,7.1,7.7,7.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221829_devicerender_small.jpeg,Samsung Galaxy A50,0
+6.6,6.8,Samsung,5.5,6.3,7.8,6.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221916_devicerender_small.jpeg,Samsung Galaxy A30,0
+6.9,8.4,Samsung,5.7,6.3,7.4,6.5,//cdn-files.kimovil.com/phone_front/0002/94/thumb_193060_phone_front_medium.jpeg,Samsung Galaxy M30,0
+5.7,5.9,Samsung,4.1,6.2,6.1,6.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221816_devicerender_small.jpeg,Samsung Galaxy A10,0
+6.5,5.1,Samsung,5.8,7.2,7.8,6.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221899_devicerender_small.jpeg,Samsung Galaxy A40,0
+7.3,6.3,Samsung,6.7,7.9,7.7,7.9,//cdn-files.kimovil.com/phone_front/0003/03/thumb_202264_phone_front_medium.jpeg,Samsung Galaxy A80,0
+7.4,7.9,Samsung,6.9,7.2,7.8,7.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221972_devicerender_small.jpeg,Samsung Galaxy A70,0
+5.9,4.8,Samsung,6.2,6.9,5.6,6.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221958_devicerender_small.jpeg,Samsung Galaxy A20e,0
+6.6,7.1,Samsung,5.0,7.2,7.7,6.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221892_devicerender_small.jpeg,Samsung Galaxy A20,0
+7.0,8.4,Samsung,5.5,7.2,7.2,6.7,//cdn-files.kimovil.com/phone_front/0003/09/thumb_208455_phone_front_medium.jpeg,Samsung Galaxy A40s,0
+6.9,6.0,Samsung,6.7,7.0,7.6,7.4,//cdn-files.kimovil.com/phone_front/0003/06/thumb_205906_phone_front_medium.jpeg,Samsung Galaxy A60,0
+4.0,3.6,Samsung,3.6,5.0,3.2,4.7,//cdn-files.kimovil.com/phone_front/0003/14/thumb_213643_phone_front_medium.jpeg,Samsung Galaxy A2 Core,0
+6.0,4.8,Samsung,5.1,8.0,5.7,6.2,//cdn-files.kimovil.com/phone_front/0003/03/thumb_202344_phone_front_medium.jpeg,Samsung Galaxy Jean2,0
+6.5,7.1,Samsung,5.1,6.6,7.5,6.2,//cdn-files.kimovil.com/phone_front/0003/03/thumb_202290_phone_front_medium.jpeg,Samsung Galaxy Wide4,0
+5.7,3.9,Samsung,4.7,7.0,6.6,6.5,//cdn-files.kimovil.com/devicerender/0003/57/thumb_256865_devicerender_small.jpeg,Samsung Galaxy Xcover 4s,0
+5.2,4.8,Samsung,3.7,5.2,6.4,6.0,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322276_devicerender_small.jpeg,Samsung Galaxy A10e,0
+6.9,6.0,Samsung,6.6,7.1,7.6,7.4,//cdn-files.kimovil.com/phone_front/0003/13/thumb_212552_phone_front_medium.jpeg,Samsung Galaxy M40,0
+8.5,7.8,Samsung,8.1,8.7,9.3,8.7,//cdn-files.kimovil.com/devicerender/0003/38/thumb_237281_devicerender_small.jpeg,Samsung Galaxy Note10+,0
+8.1,6.2,Samsung,8.3,8.2,9.2,8.5,//cdn-files.kimovil.com/devicerender/0003/39/thumb_238617_devicerender_small.jpeg,Samsung Galaxy Note 10,0
+5.5,6.6,Samsung,5.1,5.0,5.1,5.7,//cdn-files.kimovil.com/phone_front/0003/32/thumb_231515_phone_front_medium.jpeg,Samsung Galaxy A10s,0
+7.2,7.0,Samsung,6.6,7.0,7.9,7.3,//cdn-files.kimovil.com/phone_front/0003/37/thumb_236575_phone_front_medium.jpeg,Samsung Galaxy A50s,0
+6.9,6.9,Samsung,6.1,7.0,7.7,6.6,//cdn-files.kimovil.com/devicerender/0003/61/thumb_260055_devicerender_small.jpeg,Samsung Galaxy A30s,0
+7.8,8.0,Samsung,7.5,7.5,7.8,8.4,//cdn-files.kimovil.com/devicerender/0003/56/thumb_255834_devicerender_small.jpeg,Samsung Galaxy A90 5G,0
+7.1,7.1,Samsung,6.4,7.2,8.1,6.5,//cdn-files.kimovil.com/phone_front/0003/49/thumb_248770_phone_front_medium.jpeg,Samsung Galaxy M10S,0
+7.6,9.1,Samsung,7.6,7.2,7.0,7.2,//cdn-files.kimovil.com/devicerender/0003/64/thumb_263501_devicerender_small.jpeg,Samsung Galaxy M30s,0
+6.4,6.9,Samsung,5.6,6.6,6.9,5.9,//cdn-files.kimovil.com/devicerender/0003/64/thumb_263502_devicerender_small.jpeg,Samsung Galaxy A20s,0
+7.8,7.9,Samsung,8.2,7.3,8.1,7.6,//cdn-files.kimovil.com/phone_front/0003/53/thumb_252788_phone_front_medium.jpeg,Samsung Galaxy A70s,0
+7.9,8.1,Samsung,8.6,8.4,5.3,8.9,//cdn-files.kimovil.com/phone_front/0002/95/thumb_194601_phone_front_medium.jpeg,Samsung Galaxy W20 5G,0
+7.7,6.9,Samsung,7.8,8.2,8.1,7.3,//cdn-files.kimovil.com/devicerender/0004/02/thumb_301123_devicerender_small.jpeg,Samsung Galaxy A51,0
+8.0,8.0,Samsung,8.2,8.2,8.0,7.8,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322280_devicerender_small.jpeg,Samsung Galaxy A71,0
+4.8,4.7,Samsung,4.9,4.8,3.5,6.1,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322277_devicerender_small.jpeg,Samsung Galaxy A01,0
+8.2,8.0,Samsung,8.3,8.2,8.1,8.4,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322281_devicerender_small.jpeg,Samsung Galaxy S10 Lite,0
+7.9,7.9,Samsung,7.5,8.0,8.1,8.0,//cdn-files.kimovil.com/devicerender/0004/23/thumb_322282_devicerender_small.jpeg,Samsung Galaxy Note 10 Lite,0
+7.0,7.4,Samsung,6.0,7.5,7.0,7.2,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354027_devicerender_small.jpeg,Samsung Galaxy XCover Pro,0
+7.5,5.7,Samsung,7.1,8.4,7.8,8.6,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354023_devicerender_small.jpeg,Samsung Galaxy Z Flip,0
+9.1,8.7,Samsung,9.9,8.6,9.5,8.9,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354010_devicerender_small.jpeg,Samsung Galaxy S20 Ultra,0
+8.7,8.0,Samsung,8.6,8.3,10,8.8,//cdn-files.kimovil.com/devicerender/0004/55/thumb_354016_devicerender_small.jpeg,Samsung Galaxy S20+,0
+8.6,7.5,Samsung,8.5,8.2,10,8.8,//cdn-files.kimovil.com/phone_front/0004/23/thumb_322700_phone_front_medium.jpeg,Samsung Galaxy S20,0
+8.0,9.1,Samsung,8.2,7.8,7.4,7.4,//cdn-files.kimovil.com/phone_front/0004/31/thumb_330551_phone_front_medium.jpeg,Samsung Galaxy M31,0
+7.4,9.1,Samsung,6.8,6.7,7.4,7.2,//cdn-files.kimovil.com/phone_front/0004/40/thumb_339639_phone_front_medium.jpeg,Samsung Galaxy M21,0
+7.0,6.0,Samsung,6.4,7.5,7.9,7.3,//cdn-files.kimovil.com/phone_front/0004/41/thumb_340380_phone_front_medium.jpeg,Samsung Galaxy A41,0
+7.2,8.4,Samsung,6.5,6.3,7.6,7.3,//cdn-files.kimovil.com/phone_front/0004/42/thumb_341927_phone_front_medium.jpeg,Samsung Galaxy A31,0
+6.3,8.4,Samsung,5.3,6.2,5.9,5.9,//cdn-files.kimovil.com/phone_front/0004/47/thumb_346149_phone_front_medium.jpeg,Samsung Galaxy M11,0
+5.9,7.1,Samsung,5.4,4.9,6.1,6.0,//cdn-files.kimovil.com/phone_front/0004/38/thumb_337501_phone_front_medium.jpeg,Samsung Galaxy A11,0
+8.1,8.0,Samsung,8.2,7.9,8.3,8.1,//cdn-files.kimovil.com/phone_front/0004/53/thumb_352846_phone_front_medium.jpeg,Samsung Galaxy A71 5G,0
+0.0,0,Samsung,0,0,0,0,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351341_phone_front_medium.jpeg,Samsung Galaxy A21,0
+4.2,5.2,Apple,4.7,4.3,4.2,2.7,//cdn-files.kimovil.com/phone_front/0001/01/thumb_986_phone_front_medium.jpeg,Apple iPhone 5,0
+5.4,8.8,Apple,5.1,5.3,4.3,3.6,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1166_phone_front_medium.jpeg,Apple iPhone 5c,0
+5.7,5.7,Apple,6.2,5.5,5.3,5.6,//cdn-files.kimovil.com/phone_front/0001/01/thumb_984_phone_front_medium.jpeg,Apple iPhone 5s,0
+7.0,9.2,Apple,7.1,6.7,5.9,6.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1784_phone_front_medium.jpeg,Apple iPhone 6 Plus,0
+6.5,6.6,Apple,6.4,7.0,6.6,6.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1786_phone_front_medium.jpeg,Apple iPhone 6,0
+7.5,8.9,Apple,7.3,8.1,6.5,6.9,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5513_phone_front_medium.jpeg,Apple iPhone 6s Plus,0
+7.2,7.8,Apple,6.6,8.1,6.5,6.9,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5508_phone_front_medium.jpeg,Apple iPhone 6s,0
+6.1,3.6,Apple,6.5,7.7,5.8,7.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220191_devicerender_small.jpeg,Apple iPhone SE,0
+7.4,6.6,Apple,7.8,7.9,7.0,7.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220527_devicerender_small.jpeg,Apple iPhone 7 Plus,0
+7.3,6.2,Apple,7.7,7.9,7.0,7.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220536_devicerender_small.jpeg,Apple iPhone 7,0
+7.4,6.2,Apple,8.4,7.9,6.8,7.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221167_devicerender_small.jpeg,Apple iPhone 8 Plus,0
+7.0,4.4,Apple,7.7,8.0,7.0,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221169_devicerender_small.jpeg,Apple iPhone 8,0
+7.8,7.5,Apple,8.4,8.0,7.7,7.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221173_devicerender_small.jpeg,Apple iPhone X,0
+8.4,8.1,Apple,8.5,8.6,8.6,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221651_devicerender_small.jpeg,Apple iPhone Xs Max,0
+8.0,7.4,Apple,8.5,8.4,7.6,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221648_devicerender_small.jpeg,Apple iPhone Xs,0
+7.9,7.9,Apple,7.9,8.2,7.4,8.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221709_devicerender_small.jpeg,Apple iPhone Xr,0
+8.6,8.8,Apple,8.7,8.7,8.4,8.6,//cdn-files.kimovil.com/devicerender/0003/54/thumb_253544_devicerender_small.jpeg,Apple iPhone 11 Pro Max,0
+8.2,7.6,Apple,8.9,8.6,7.3,8.6,//cdn-files.kimovil.com/devicerender/0003/54/thumb_253545_devicerender_small.jpeg,Apple iPhone 11 Pro,0
+8.2,7.7,Apple,8.7,8.8,7.0,8.6,//cdn-files.kimovil.com/devicerender/0003/54/thumb_253180_devicerender_small.jpeg,Apple iPhone 11,0
+7.0,3.4,Apple,8.0,8.9,6.3,8.4,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351836_phone_front_medium.jpeg,Apple iPhone SE 2020,0
+6.0,7.1,OnePlus,5.8,6.6,5.5,4.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_972_phone_front_medium.jpeg,OnePlus One,0
+6.0,6.2,OnePlus,6.9,5.6,6.0,5.5,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5024_phone_front_medium.jpeg,OnePlus 2,0
+5.6,7.6,Vivo,3.9,4.5,6.8,5.2,//cdn-files.kimovil.com/phone_front/0003/33/thumb_232017_phone_front_medium.jpeg,Vivo Y90,0
+2.9,1.9,Vivo,4.1,2.6,3.3,2.6,//cdn-files.kimovil.com/phone_front/0001/01/thumb_961_phone_front_medium.jpeg,Vivo X3S,0
+4.5,4.8,Vivo,4.5,4.6,4.7,3.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1050_phone_front_medium.jpeg,Vivo Xplay 3S,0
+4.0,3.1,Vivo,6.7,3.0,3.6,3.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1190_phone_front_medium.jpeg,Vivo Xshot,0
+3.9,1.8,Vivo,5.6,2.9,5.7,3.4,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2723_phone_front_medium.jpeg,Vivo X5 Max,0
+3.6,2.4,Vivo,5.6,2.5,4.3,3.4,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3923_phone_front_medium.jpeg,Vivo X5,0
+3.1,3.1,Vivo,3.6,3.2,2.7,3.1,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2413_phone_front_medium.jpeg,Vivo X3V,0
+6.3,5.9,Vivo,7.1,6.0,7.1,5.5,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8368_phone_front_medium.jpeg,Vivo XPlay 5,0
+3.1,3.1,Vivo,3.6,3.4,2.7,2.6,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4831_phone_front_medium.jpeg,Vivo X3F,0
+4.2,2.4,Vivo,4.2,4.6,5.7,4.2,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4252_phone_front_medium.jpeg,Vivo X5 Pro,0
+4.5,3.9,Vivo,4.1,4.3,5.1,5.0,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6968_phone_front_medium.jpeg,Vivo X6,0
+4.5,2.6,Vivo,4.1,4.8,5.4,5.6,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27508_phone_front_medium.jpeg,Vivo X6S,0
+4.9,3.9,Vivo,4.4,5.7,5.1,5.6,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27508_phone_front_medium.jpeg,Vivo X6S Plus,0
+4.2,2.6,Vivo,4.0,4.3,5.6,4.5,//cdn-files.kimovil.com/phone_front/0001/16/thumb_15393_phone_front_medium.jpeg,Vivo X6A,0
+4.5,3.9,Vivo,4.0,4.2,5.1,5.4,//cdn-files.kimovil.com/phone_front/0001/25/thumb_24765_phone_front_medium.jpeg,Vivo V3Max,0
+3.6,2.8,Vivo,3.8,4.3,3.9,3.3,//cdn-files.kimovil.com/phone_front/0001/16/thumb_15695_phone_front_medium.jpeg,Vivo Y35A,0
+4.0,3.4,Vivo,3.9,4.4,4.6,3.6,//cdn-files.kimovil.com/phone_front/0001/17/thumb_16015_phone_front_medium.jpeg,Vivo Y37A,0
+3.8,3.1,Vivo,3.0,3.7,4.8,4.2,//cdn-files.kimovil.com/phone_front/0001/25/thumb_24765_phone_front_medium.jpeg,Vivo V3,0
+5.6,6.5,Vivo,6.5,5.3,4.1,5.5,//cdn-files.kimovil.com/phone_front/0001/30/thumb_29318_phone_front_medium.jpeg,Vivo X7 Plus,0
+4.7,4.0,Vivo,4.4,4.5,4.6,5.8,//cdn-files.kimovil.com/phone_front/0001/30/thumb_29318_phone_front_medium.jpeg,Vivo X7,0
+2.9,2.3,Vivo,3.5,3.5,2.4,2.8,//cdn-files.kimovil.com/phone_front/0002/52/thumb_151643_phone_front_medium.jpeg,Vivo Y21L,0
+4.0,3.3,Vivo,3.7,3.6,4.8,4.4,//cdn-files.kimovil.com/phone_front/0002/52/thumb_151675_phone_front_medium.jpeg,Vivo Y55L,0
+6.0,6.4,Vivo,5.1,6.2,5.8,6.4,//cdn-files.kimovil.com/phone_front/0001/81/thumb_80288_phone_front_medium.jpeg,Vivo X9 Plus,0
+4.3,4.2,Vivo,3.4,4.3,4.7,5.1,//cdn-files.kimovil.com/phone_front/0001/81/thumb_80319_phone_front_medium.jpeg,Vivo Y67,0
+7.0,7.5,Vivo,7.9,6.9,6.0,6.9,//cdn-files.kimovil.com/phone_front/0001/56/thumb_55466_phone_front_medium.jpeg,Vivo Xplay 6,0
+5.6,4.9,Vivo,4.9,6.2,6.3,5.5,//cdn-files.kimovil.com/phone_front/0001/81/thumb_80362_phone_front_medium.jpeg,Vivo X9,0
+4.2,4.2,Vivo,3.2,3.9,4.9,5.0,//cdn-files.kimovil.com/phone_front/0001/63/thumb_62293_phone_front_medium.jpeg,Vivo V5,0
+5.3,5.3,Vivo,4.7,5.1,6.1,5.5,//cdn-files.kimovil.com/phone_front/0001/55/thumb_54991_phone_front_medium.jpeg,Vivo V5 Plus,0
+4.4,4.2,Vivo,4.4,3.8,4.9,4.8,//cdn-files.kimovil.com/phone_front/0001/56/thumb_55145_phone_front_medium.jpeg,Vivo V5 Lite,0
+3.9,3.7,Vivo,4.1,3.8,4.1,4.0,//cdn-files.kimovil.com/phone_front/0001/89/thumb_88170_phone_front_medium.jpeg,Vivo Y55s,0
+4.2,3.9,Vivo,3.8,4.0,4.8,4.5,//cdn-files.kimovil.com/phone_front/0001/84/thumb_83721_phone_front_medium.jpeg,Vivo Y66,0
+2.7,2.1,Vivo,2.2,3.7,2.2,3.4,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131230_phone_front_medium.jpeg,Vivo Y25,0
+4.6,4.2,Vivo,4.5,4.1,5.2,5.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148263_phone_front_medium.jpeg,Vivo V5s,0
+5.6,6.5,Vivo,4.7,5.9,5.0,6.1,//cdn-files.kimovil.com/phone_front/0001/93/thumb_92653_phone_front_medium.jpeg,Vivo X9s Plus,0
+5.6,5.3,Vivo,4.8,6.2,5.2,6.4,//cdn-files.kimovil.com/phone_front/0001/93/thumb_92637_phone_front_medium.jpeg,Vivo X9s,0
+4.6,4.2,Vivo,5.6,4.1,4.0,5.0,//cdn-files.kimovil.com/phone_front/0001/84/thumb_83887_phone_front_medium.jpeg,Vivo Y69,0
+6.6,6.5,Vivo,7.0,6.5,6.3,6.7,//cdn-files.kimovil.com/phone_front/0002/25/thumb_124311_phone_front_medium.jpeg,Vivo X20 Plus,0
+6.1,5.4,Vivo,5.2,6.5,6.5,6.7,//cdn-files.kimovil.com/phone_front/0001/92/thumb_91008_phone_front_medium.jpeg,Vivo X20,0
+3.7,3.3,Vivo,3.7,3.7,3.8,4.0,//cdn-files.kimovil.com/phone_front/0001/89/thumb_88167_phone_front_medium.jpeg,Vivo Y53,0
+5.9,5.4,Vivo,6.6,6.2,5.6,5.6,//cdn-files.kimovil.com/phone_front/0001/87/thumb_86477_phone_front_medium.jpeg,Vivo V7+,0
+5.3,5.4,Vivo,4.7,5.7,5.2,5.6,//cdn-files.kimovil.com/phone_front/0002/31/thumb_130762_phone_front_medium.jpeg,Vivo Y79,0
+4.8,4.4,Vivo,4.4,5.1,4.4,5.7,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141967_phone_front_medium.jpeg,Vivo Y75,0
+6.6,6.5,Vivo,6.7,6.6,6.4,6.8,//cdn-files.kimovil.com/phone_front/0002/25/thumb_124460_phone_front_medium.jpeg,Vivo X20 Plus UD,0
+6.9,5.2,Vivo,7.7,6.5,7.8,7.1,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131963_phone_front_medium.jpeg,Vivo X21 UD,0
+6.9,5.3,Vivo,7.7,6.5,8.0,7.1,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131963_phone_front_medium.jpeg,Vivo X21,0
+5.9,5.4,Vivo,5.2,5.5,7.6,5.6,//cdn-files.kimovil.com/phone_front/0002/33/thumb_132028_phone_front_medium.jpeg,Vivo Y85,0
+6.2,4.8,Vivo,6.4,5.9,7.9,5.9,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131173_phone_front_medium.jpeg,Vivo V9,0
+5.6,4.8,Vivo,6.5,5.6,5.8,5.5,//cdn-files.kimovil.com/phone_front/0002/39/thumb_138953_phone_front_medium.jpeg,Vivo V7,0
+4.6,5.7,Vivo,3.8,3.5,5.1,5.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148256_phone_front_medium.jpeg,Vivo Y71,0
+5.7,5.3,Vivo,5.6,4.9,6.9,6.0,//cdn-files.kimovil.com/phone_front/0002/43/thumb_142000_phone_front_medium.jpeg,Vivo Y83,0
+6.5,5.3,Vivo,6.3,6.2,7.8,6.8,//cdn-files.kimovil.com/phone_front/0002/40/thumb_139587_phone_front_medium.jpeg,Vivo X21i,0
+6.3,5.4,Vivo,6.2,5.6,7.6,6.7,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141543_phone_front_medium.jpeg,Vivo Z1,0
+5.2,5.4,Vivo,4.6,5.5,4.8,5.6,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141983_phone_front_medium.jpeg,Vivo Y75s,0
+7.7,6.8,Vivo,7.7,7.9,8.0,8.1,//cdn-files.kimovil.com/phone_front/0002/89/thumb_188241_phone_front_medium.jpeg,Vivo Nex S,0
+7.5,6.9,Vivo,7.7,7.3,8.0,7.5,//cdn-files.kimovil.com/phone_front/0002/89/thumb_188235_phone_front_medium.jpeg,Vivo Nex,0
+6.3,5.4,Vivo,6.2,5.6,7.6,6.5,//cdn-files.kimovil.com/phone_front/0002/42/thumb_141543_phone_front_medium.jpeg,Vivo Z1i,0
+5.8,5.4,Vivo,6.6,6.2,5.5,5.5,//cdn-files.kimovil.com/phone_front/0002/47/thumb_146763_phone_front_medium.jpeg,Vivo Z10,0
+5.6,5.3,Vivo,5.5,4.4,7.0,5.7,//cdn-files.kimovil.com/phone_front/0002/55/thumb_154230_phone_front_medium.jpeg,Vivo Y81,0
+6.6,5.7,Vivo,6.8,5.5,7.8,7.0,//cdn-files.kimovil.com/phone_front/0002/57/thumb_156760_phone_front_medium.jpeg,Vivo V11,0
+6.4,5.6,Vivo,6.8,5.1,7.5,6.8,//cdn-files.kimovil.com/phone_front/0002/57/thumb_156685_phone_front_medium.jpeg,Vivo V11i,0
+6.6,5.7,Vivo,6.7,5.9,7.8,6.9,//cdn-files.kimovil.com/phone_front/0002/55/thumb_154701_phone_front_medium.jpeg,Vivo V11 Pro,0
+6.4,5.6,Vivo,6.7,5.6,7.4,6.8,//cdn-files.kimovil.com/phone_front/0002/58/thumb_157620_phone_front_medium.jpeg,Vivo Y97,0
+6.8,6.1,Vivo,6.1,6.1,8.2,7.3,//cdn-files.kimovil.com/phone_front/0002/55/thumb_154366_phone_front_medium.jpeg,Vivo X23,0
+6.1,5.4,Vivo,5.4,4.8,7.9,6.8,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131173_phone_front_medium.jpeg,Vivo V9 Pro,0
+6.5,5.6,Vivo,6.8,5.5,7.4,7.1,//cdn-files.kimovil.com/phone_front/0002/62/thumb_161942_phone_front_medium.jpeg,Vivo Z3i,0
+6.6,5.4,Vivo,6.8,5.7,7.4,7.5,//cdn-files.kimovil.com/phone_front/0002/62/thumb_161942_phone_front_medium.jpeg,Vivo Z3,0
+5.3,5.8,Vivo,3.9,4.7,7.1,5.1,//cdn-files.kimovil.com/phone_front/0002/64/thumb_163073_phone_front_medium.jpeg,Vivo Y81i,0
+5.1,5.8,Vivo,3.9,4.5,5.3,6.1,//cdn-files.kimovil.com/phone_front/0002/64/thumb_163814_phone_front_medium.jpeg,Vivo Y73,0
+6.1,4.8,Vivo,6.3,5.9,7.6,5.8,//cdn-files.kimovil.com/phone_front/0003/14/thumb_213657_phone_front_medium.jpeg,Vivo Z1 Lite,0
+5.9,7.3,Vivo,4.9,4.3,6.8,6.2,//cdn-files.kimovil.com/phone_front/0002/72/thumb_171752_phone_front_medium.jpeg,Vivo Y93,0
+6.0,7.2,Vivo,5.1,5.1,6.9,5.9,//cdn-files.kimovil.com/phone_front/0002/72/thumb_171730_phone_front_medium.jpeg,Vivo Y91,0
+6.1,7.2,Vivo,5.3,4.8,6.9,6.3,//cdn-files.kimovil.com/phone_front/0002/72/thumb_171476_phone_front_medium.jpeg,Vivo Y95,0
+6.6,5.7,Vivo,6.4,5.9,7.9,7.1,//cdn-files.kimovil.com/phone_front/0003/25/thumb_224970_phone_front_medium.jpeg,Vivo X21s,0
+5.9,6.7,Vivo,5.1,4.5,6.7,6.4,//cdn-files.kimovil.com/phone_front/0002/76/thumb_175825_phone_front_medium.jpeg,Vivo Y93s,0
+7.2,6.0,Vivo,7.7,6.3,7.6,8.2,//cdn-files.kimovil.com/phone_front/0002/77/thumb_176073_phone_front_medium.jpeg,Vivo NEX Dual Display,0
+6.0,4.8,Vivo,6.2,5.4,7.6,6.2,//cdn-files.kimovil.com/phone_front/0002/86/thumb_185086_phone_front_medium.jpeg,Vivo Y89,0
+5.4,5.3,Vivo,4.9,4.2,6.8,6.0,//cdn-files.kimovil.com/phone_front/0002/33/thumb_132028_phone_front_medium.jpeg,Vivo Y85 MT6762,0
+6.0,7.3,Vivo,5.1,4.8,6.7,6.3,//cdn-files.kimovil.com/phone_front/0002/92/thumb_191008_phone_front_medium.jpeg,Vivo U1,0
+7.2,6.3,Vivo,7.5,6.2,8.2,7.6,//cdn-files.kimovil.com/phone_front/0002/91/thumb_190996_phone_front_medium.jpeg,Vivo V15 Pro,0
+7.6,7.2,Vivo,7.7,7.2,7.7,8.3,//cdn-files.kimovil.com/phone_front/0002/94/thumb_193289_phone_front_medium.jpeg,Vivo iQOO,0
+6.8,6.8,Vivo,6.4,5.4,7.9,7.4,//cdn-files.kimovil.com/phone_front/0002/95/thumb_194191_phone_front_medium.jpeg,Vivo V15,0
+5.5,6.7,Vivo,4.0,4.1,6.9,5.6,//cdn-files.kimovil.com/phone_front/0003/04/thumb_203177_phone_front_medium.jpeg,Vivo Y91C,0
+7.8,7.0,Vivo,8.7,7.3,8.0,7.8,//cdn-files.kimovil.com/phone_front/0002/98/thumb_197390_phone_front_medium.jpeg,Vivo X27,0
+6.8,6.7,Vivo,6.4,5.4,8.0,7.5,//cdn-files.kimovil.com/phone_front/0002/100/thumb_199153_phone_front_medium.jpeg,Vivo S1,0
+7.8,6.9,Vivo,8.8,7.4,8.2,7.8,//cdn-files.kimovil.com/phone_front/0002/98/thumb_197390_phone_front_medium.jpeg,Vivo X27 Pro,0
+6.2,8.3,Vivo,5.6,4.8,5.9,6.5,//cdn-files.kimovil.com/phone_front/0003/09/thumb_208410_phone_front_medium.jpeg,Vivo Y17,0
+6.2,5.4,Vivo,5.2,5.8,7.6,6.8,//cdn-files.kimovil.com/phone_front/0003/06/thumb_205758_phone_front_medium.jpeg,Vivo Z3x,0
+7.0,6.3,Vivo,6.6,6.3,8.0,7.7,//cdn-files.kimovil.com/phone_front/0003/07/thumb_206921_phone_front_medium.jpeg,Vivo S1 Pro,0
+5.5,6.7,Vivo,4.0,4.5,6.9,5.6,//cdn-files.kimovil.com/phone_front/0003/09/thumb_208434_phone_front_medium.jpeg,Vivo Y91i,0
+6.3,8.3,Vivo,5.4,5.2,6.1,6.6,//cdn-files.kimovil.com/phone_front/0003/09/thumb_208410_phone_front_medium.jpeg,Vivo Y3,0
+7.1,8.5,Vivo,6.2,6.2,7.1,7.5,//cdn-files.kimovil.com/phone_front/0003/11/thumb_210985_phone_front_medium.jpeg,Vivo Z5x,0
+6.2,8.2,Vivo,5.5,5.1,5.9,6.2,//cdn-files.kimovil.com/phone_front/0003/13/thumb_212549_phone_front_medium.jpeg,Vivo Y15,0
+6.2,8.2,Vivo,5.1,5.7,6.1,6.1,//cdn-files.kimovil.com/phone_front/0003/18/thumb_217975_phone_front_medium.jpeg,Vivo Y12,0
+6.8,7.9,Vivo,4.7,6.2,7.0,8.1,//cdn-files.kimovil.com/phone_front/0003/18/thumb_217925_phone_front_medium.jpeg,Vivo iQOO Neo,0
+7.2,8.5,Vivo,7.6,5.2,7.1,7.6,//cdn-files.kimovil.com/phone_front/0003/11/thumb_210985_phone_front_medium.jpeg,Vivo Z1 Pro,0
+7.2,7.9,Vivo,7.3,5.5,7.7,7.5,//cdn-files.kimovil.com/phone_front/0003/25/thumb_224914_phone_front_medium.jpeg,Vivo Y7s,0
+7.4,7.9,Vivo,7.4,6.7,7.7,7.3,//cdn-files.kimovil.com/phone_front/0003/25/thumb_224914_phone_front_medium.jpeg,Vivo S1 P65,0
+7.3,7.9,Vivo,7.3,6.4,7.4,7.7,//cdn-files.kimovil.com/phone_front/0003/31/thumb_230031_phone_front_medium.jpeg,Vivo Z5,0
+7.5,7.9,Vivo,7.4,7.0,7.5,7.5,//cdn-files.kimovil.com/phone_front/0003/33/thumb_232806_phone_front_medium.jpeg,Vivo V17 Neo,0
+8.2,8.0,Vivo,8.4,8.2,7.5,8.7,//cdn-files.kimovil.com/phone_front/0003/40/thumb_239304_phone_front_medium.jpeg,Vivo iQOO Pro,0
+7.2,8.0,Vivo,8.0,5.3,7.2,7.6,//cdn-files.kimovil.com/phone_front/0003/45/thumb_244697_phone_front_medium.jpeg,Vivo Z1x,0
+8.4,7.9,Vivo,8.8,8.3,8.4,8.7,//cdn-files.kimovil.com/phone_front/0003/48/thumb_247914_phone_front_medium.jpeg,Vivo Nex 3,0
+7.4,7.5,Vivo,8.6,5.7,7.7,7.7,//cdn-files.kimovil.com/phone_front/0003/52/thumb_251442_phone_front_medium.jpeg,Vivo V17 Pro,0
+6.3,8.6,Vivo,5.4,5.1,5.7,6.8,//cdn-files.kimovil.com/phone_front/0003/54/thumb_253583_phone_front_medium.jpeg,Vivo U10,0
+6.4,8.6,Vivo,5.4,5.6,5.7,6.8,//cdn-files.kimovil.com/phone_front/0003/54/thumb_253597_phone_front_medium.jpeg,Vivo U3x,0
+7.1,8.5,Vivo,5.7,6.1,7.4,7.6,//cdn-files.kimovil.com/phone_front/0003/65/thumb_264025_phone_front_medium.jpeg,Vivo U3,0
+7.6,8.0,Vivo,7.6,6.8,7.1,8.3,//cdn-files.kimovil.com/phone_front/0003/67/thumb_266180_phone_front_medium.jpeg,Vivo iQOO Neo 855,0
+6.2,8.4,Vivo,4.9,5.2,6.1,6.2,//cdn-files.kimovil.com/phone_front/0003/96/thumb_295724_phone_front_medium.jpeg,Vivo Y11,0
+7.0,8.4,Vivo,5.7,6.0,7.5,7.3,//cdn-files.kimovil.com/phone_front/0003/72/thumb_271901_phone_front_medium.jpeg,Vivo Y19,0
+7.0,8.4,Vivo,5.7,6.0,7.5,7.5,//cdn-files.kimovil.com/phone_front/0003/72/thumb_271882_phone_front_medium.jpeg,Vivo Y5s,0
+7.5,7.5,Vivo,8.2,6.1,8.0,7.7,//cdn-files.kimovil.com/phone_front/0003/76/thumb_275499_phone_front_medium.jpeg,Vivo S5,0
+7.3,8.5,Vivo,7.5,5.6,7.4,7.6,//cdn-files.kimovil.com/phone_front/0003/81/thumb_280954_phone_front_medium.jpeg,Vivo Z5i,0
+7.2,8.5,Vivo,7.5,5.2,7.4,7.5,//cdn-files.kimovil.com/phone_front/0003/81/thumb_280937_phone_front_medium.jpeg,Vivo U20,0
+7.6,8.0,Vivo,7.6,6.6,7.1,8.7,//cdn-files.kimovil.com/phone_front/0003/85/thumb_284288_phone_front_medium.jpeg,Vivo iQOO Neo 855 Plus,0
+7.1,7.9,Vivo,6.7,6.1,7.1,7.5,//cdn-files.kimovil.com/phone_front/0003/88/thumb_287777_phone_front_medium.jpeg,Vivo Y9s,0
+7.4,7.9,Vivo,8.0,5.7,7.7,7.7,//cdn-files.kimovil.com/phone_front/0003/87/thumb_286601_phone_front_medium.jpeg,Vivo V17,0
+8.1,7.8,Vivo,8.7,8.1,8.0,8.1,//cdn-files.kimovil.com/phone_front/0003/90/thumb_289240_phone_front_medium.jpeg,Vivo X30 Pro,0
+8.0,7.8,Vivo,8.3,7.7,8.0,8.1,//cdn-files.kimovil.com/phone_front/0003/90/thumb_289205_phone_front_medium.jpeg,Vivo X30,0
+8.6,7.9,Vivo,8.3,9.0,8.7,9.1,//cdn-files.kimovil.com/phone_front/0004/29/thumb_328693_phone_front_medium.jpeg,Vivo iQOO 3,0
+7.7,8.7,Vivo,8.0,6.3,7.5,8.0,//cdn-files.kimovil.com/phone_front/0004/29/thumb_328175_phone_front_medium.jpeg,Vivo Z6,0
+8.7,8.0,Vivo,8.8,9.1,8.7,9.1,//cdn-files.kimovil.com/phone_front/0004/36/thumb_335130_phone_front_medium.jpeg,Vivo NEX 3s 5G,0
+7.4,8.0,Vivo,7.0,6.9,7.0,8.1,//cdn-files.kimovil.com/phone_front/0004/46/thumb_345738_phone_front_medium.jpeg,Vivo S6,0
+6.8,8.5,Vivo,5.6,5.3,6.9,7.5,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351348_phone_front_medium.jpeg,Vivo Y50,0
+7.5,7.9,Vivo,7.9,6.6,7.5,7.7,//cdn-files.kimovil.com/phone_front/0004/48/thumb_347285_phone_front_medium.jpeg,Vivo V19,0
+8.0,8.0,Vivo,7.1,8.1,7.8,9.0,//cdn-files.kimovil.com/phone_front/0004/56/thumb_355257_phone_front_medium.jpeg,Vivo iQoo Neo3,0
+5.2,3.0,OnePlus,6.4,5.5,6.6,4.6,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7879_phone_front_medium.jpeg,OnePlus X,0
+6.7,5.0,OnePlus,7.4,7.2,6.5,7.3,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27545_phone_front_medium.jpeg,OnePlus 3,0
+6.9,6.0,OnePlus,7.4,7.1,6.5,7.4,//cdn-files.kimovil.com/phone_front/0001/28/thumb_27544_phone_front_medium.jpeg,OnePlus 3T,0
+7.1,5.7,OnePlus,7.5,8.5,6.4,7.6,//cdn-files.kimovil.com/phone_front/0001/75/thumb_74270_phone_front_medium.jpeg,OnePlus 5,0
+7.3,5.6,OnePlus,7.6,8.9,6.8,7.5,//cdn-files.kimovil.com/phone_front/0002/06/thumb_105772_phone_front_medium.jpeg,OnePlus 5T,0
+7.6,5.5,OnePlus,7.9,9.1,7.7,7.9,//cdn-files.kimovil.com/phone_front/0002/40/thumb_139870_phone_front_medium.jpeg,OnePlus 6,0
+8.0,6.3,OnePlus,7.9,9.1,8.7,7.9,//cdn-files.kimovil.com/phone_front/0002/65/thumb_164860_phone_front_medium.jpeg,OnePlus 6T,0
+8.4,6.9,OnePlus,8.6,9.1,9.2,8.4,//cdn-files.kimovil.com/phone_front/0003/08/thumb_207554_phone_front_medium.jpeg,OnePlus 7 Pro,0
+8.1,6.3,OnePlus,8.3,8.9,8.6,8.4,//cdn-files.kimovil.com/phone_front/0003/09/thumb_208601_phone_front_medium.jpeg,OnePlus 7,0
+8.3,6.5,OnePlus,8.6,8.8,8.8,8.7,//cdn-files.kimovil.com/phone_front/0003/55/thumb_254189_phone_front_medium.jpeg,OnePlus 7T,0
+8.5,7.5,OnePlus,8.6,8.8,9.0,8.8,//cdn-files.kimovil.com/phone_front/0003/61/thumb_260312_phone_front_medium.jpeg,OnePlus 7T Pro,0
+9.0,8.1,OnePlus,9.0,9.3,9.4,9.0,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351411_phone_front_medium.jpeg,OnePlus 8 Pro,0
+8.7,7.8,OnePlus,8.6,9.2,9.1,9.0,//cdn-files.kimovil.com/phone_front/0004/52/thumb_351410_phone_front_medium.jpeg,OnePlus 8,0
+3.7,3.1,Oppo,5.8,3.8,3.0,2.8,//cdn-files.kimovil.com/phone_front/0001/01/thumb_909_phone_front_medium.jpeg,Oppo Find 5,0
+3.2,2.3,Oppo,4.2,3.0,4.6,2.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_841_phone_front_medium.jpeg,Oppo Mirror R819,0
+6.3,4.0,Google,7.4,7.7,5.7,6.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220580_devicerender_small.jpeg,Google Pixel,0
+6.8,6.0, Google,7.4,7.7,6.0,6.9,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220577_devicerender_small.jpeg,Google Pixel XL,0
+7.2,6.1,Google,7.6,8.1,6.9,7.4,//cdn-files.kimovil.com/phone_front/0001/94/thumb_93317_phone_front_medium.jpeg,Google Pixel 2 XL,0
+6.7,3.8,Google,7.7,8.1,6.7,7.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221234_devicerender_small.jpeg,Google Pixel 2,0
+7.1,4.4,Google,7.0,8.9,7.5,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221804_devicerender_small.jpeg,Google Pixel 3,0
+7.6,5.9,Google,7.0,8.9,8.5,7.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221697_devicerender_small.jpeg,Google Pixel 3 XL,0
+7.1,6.3,Google,7.7,8.4,5.8,7.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221944_devicerender_small.jpeg,Google Pixel 3a XL,0
+6.8,4.8,Google,7.7,8.4,5.8,7.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221946_devicerender_small.jpeg,Google Pixel 3a,0
+7.9,6.4,Google,8.5,8.3,7.9,8.3,//cdn-files.kimovil.com/devicerender/0004/54/thumb_353986_devicerender_small.jpeg,Google Pixel 4 XL,0
+7.3,4.0,Google,8.5,8.3,7.3,8.3,//cdn-files.kimovil.com/phone_front/0003/63/thumb_262010_phone_front_medium.jpeg,Google Pixel 4,0
+7.3,5.2,Google,6.4,8.4,8.5,7.8,//cdn-files.kimovil.com/phone_front/0003/95/thumb_294762_phone_front_medium.jpeg,Google Pixel 4a,0
+4.0,6.0,Oppo,4.5,4.0,2.4,3.0,//cdn-files.kimovil.com/phone_front/0001/01/thumb_906_phone_front_medium.jpeg,Oppo N1,0
+5.2,5.4,Oppo,5.9,5.8,5.4,3.6,//cdn-files.kimovil.com/phone_front/0001/01/thumb_871_phone_front_medium.jpeg,Oppo Find 7,0
+4.1,3.6,Oppo,5.9,3.6,3.9,3.3,//cdn-files.kimovil.com/phone_front/0001/01/thumb_933_phone_front_medium.jpeg,Oppo Find 7a,0
+3.8,3.0,Oppo,5.8,3.6,4.2,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1191_phone_front_medium.jpeg,Oppo R1S,0
+2.2,2.1,Oppo,2.0,2.3,2.6,2.0,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3928_phone_front_medium.jpeg,Oppo R2001 YoYo,0
+4.2,1.9,Oppo,5.8,3.7,5.8,3.7,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2379_phone_front_medium.jpeg,Oppo R5,0
+4.6,4.1,Oppo,4.8,7.0,3.6,3.7,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2097_phone_front_medium.jpeg,Oppo N3,0
+3.6,2.4,Oppo,5.9,4.4,2.4,2.8,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2297_phone_front_medium.jpeg,Oppo N1 mini,0
+4.0,2.8,Oppo,5.8,3.2,5.0,3.4,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4464_phone_front_medium.jpeg,Oppo R1C,0
+5.7,6.7,Oppo,6.3,6.3,5.1,4.3,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5286_phone_front_medium.jpeg,Oppo R7 Plus,0
+4.3,2.5,Oppo,4.5,4.6,5.8,4.0,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4786_phone_front_medium.jpeg,Oppo R7,0
+3.8,3.2,Oppo,3.7,5.3,3.5,3.2,//cdn-files.kimovil.com/phone_front/0001/06/thumb_5171_phone_front_medium.jpeg,Oppo Mirror 5s,0
+4.8,4.3,Oppo,3.2,6.2,5.8,4.5,//cdn-files.kimovil.com/phone_front/0001/07/thumb_6172_phone_front_medium.jpeg,Oppo R7s,0
+4.5,3.0,Oppo,4.1,5.4,5.6,4.2,//cdn-files.kimovil.com/phone_front/0001/08/thumb_7929_phone_front_medium.jpeg,Oppo F1,0
+3.6,3.1,Oppo,3.8,4.3,3.9,3.1,//cdn-files.kimovil.com/phone_front/0002/55/thumb_154235_phone_front_medium.jpeg,Oppo Neo 7,0
+4.9,3.6,Oppo,4.5,5.2,6.1,5.1,//cdn-files.kimovil.com/phone_front/0001/25/thumb_24952_phone_front_medium.jpeg,Oppo F1 Plus,0
+5.3,3.6,Oppo,6.6,5.1,6.0,5.0,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8553_phone_front_medium.jpeg,Oppo R9,0
+5.9,6.7,Oppo,6.6,5.1,5.5,5.4,//cdn-files.kimovil.com/phone_front/0001/09/thumb_8553_phone_front_medium.jpeg,Oppo R9 Plus,0
+4.5,4.4,Oppo,5.6,4.1,4.6,3.9,//cdn-files.kimovil.com/phone_front/0001/23/thumb_22413_phone_front_medium.jpeg,Oppo A53,0
+3.7,3.1,Oppo,3.8,3.8,4.2,3.6,//cdn-files.kimovil.com/phone_front/0001/23/thumb_22960_phone_front_medium.jpeg,Oppo A33,0
+4.3,3.3,Oppo,3.9,5.5,4.6,4.1,//cdn-files.kimovil.com/phone_front/0001/48/thumb_47729_phone_front_medium.jpeg,Oppo A37,0
+4.6,4.5,Oppo,4.6,4.1,5.7,4.3,//cdn-files.kimovil.com/phone_front/0001/43/thumb_42586_phone_front_medium.jpeg,Oppo A59,0
+4.8,4.5,Oppo,4.7,4.7,5.7,4.6,//cdn-files.kimovil.com/phone_front/0001/44/thumb_43751_phone_front_medium.jpeg,Oppo A59S,0
+6.4,6.7,Oppo,7.4,6.9,4.8,6.4,//cdn-files.kimovil.com/phone_front/0001/42/thumb_41129_phone_front_medium.jpeg,Oppo R9s Plus,0
+6.0,4.7,Oppo,7.4,7.0,5.5,5.5,//cdn-files.kimovil.com/phone_front/0001/42/thumb_41129_phone_front_medium.jpeg,Oppo R9s,0
+4.8,3.9,Oppo,5.3,4.9,5.2,4.9,//cdn-files.kimovil.com/phone_front/0001/86/thumb_85518_phone_front_medium.jpeg,Oppo A57,0
+4.9,4.5,Oppo,4.6,5.5,5.4,4.5,//cdn-files.kimovil.com/phone_front/0001/58/thumb_57835_phone_front_medium.jpeg,Oppo F1s,0
+5.4,5.0,Oppo,5.6,5.0,6.2,5.4,//cdn-files.kimovil.com/phone_front/0002/48/thumb_147449_phone_front_medium.jpeg,Oppo F3,0
+5.3,5.0,Oppo,4.5,5.9,6.2,5.1,//cdn-files.kimovil.com/phone_front/0001/71/thumb_70046_phone_front_medium.jpeg,Oppo A77,0
+6.1,6.5,Oppo,5.5,6.9,4.7,6.8,//cdn-files.kimovil.com/phone_front/0001/72/thumb_71415_phone_front_medium.jpeg,Oppo R11 Plus,0
+5.7,4.0,Oppo,5.5,6.9,5.3,6.7,//cdn-files.kimovil.com/phone_front/0001/73/thumb_72595_phone_front_medium.jpeg,Oppo R11,0
+5.8,5.2,Oppo,6.2,6.3,5.6,5.9,//cdn-files.kimovil.com/phone_front/0002/10/thumb_109347_phone_front_medium.jpeg,Oppo F5,0
+6.5,6.4,Oppo,7.6,6.4,5.9,6.0,//cdn-files.kimovil.com/phone_front/0002/48/thumb_147446_phone_front_medium.jpeg,Oppo F3 Plus,0
+7.0,6.7,Oppo,7.9,6.9,6.7,6.9,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100316_phone_front_medium.jpeg,Oppo R11s Plus,0
+6.7,5.3,Oppo,7.9,6.7,6.6,6.8,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100270_phone_front_medium.jpeg,Oppo R11s,0
+5.5,4.2,Oppo,5.5,6.2,5.8,6.0,//cdn-files.kimovil.com/phone_front/0002/31/thumb_130763_phone_front_medium.jpeg,Oppo A79,0
+5.5,5.2,Oppo,5.1,6.0,5.4,5.8,//cdn-files.kimovil.com/phone_front/0002/30/thumb_129936_phone_front_medium.jpeg,Oppo A73,0
+4.5,5.2,Oppo,4.5,2.1,4.7,5.8,//cdn-files.kimovil.com/phone_front/0002/27/thumb_126562_phone_front_medium.jpeg,Oppo A83,0
+4.8,5.0,Oppo,4.0,4.7,4.7,5.4,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148243_phone_front_medium.jpeg,Oppo A71 (2018),0
+6.9,5.9,Oppo,7.4,6.9,7.5,7.0,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131795_phone_front_medium.jpeg,Oppo R15,0
+5.3,5.2,Oppo,4.1,6.2,5.1,5.8,//cdn-files.kimovil.com/phone_front/0002/36/thumb_135359_phone_front_medium.jpeg,Oppo A1,0
+7.0,5.7,Oppo,7.6,7.0,7.5,7.1,//cdn-files.kimovil.com/phone_front/0002/32/thumb_131795_phone_front_medium.jpeg,Oppo R15 Pro,0
+5.2,5.2,Oppo,4.5,5.4,4.7,6.1,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148249_phone_front_medium.jpeg,Oppo A83 Pro,0
+6.0,5.8,Oppo,4.7,5.7,6.8,6.9,//cdn-files.kimovil.com/phone_front/0002/38/thumb_137867_phone_front_medium.jpeg,Oppo A3,0
+5.9,5.8,Oppo,4.9,5.2,7.0,6.8,//cdn-files.kimovil.com/phone_front/0002/33/thumb_132860_phone_front_medium.jpeg,Oppo F7,0
+7.7,6.3,Oppo,8.2,7.8,7.9,8.1,//cdn-files.kimovil.com/phone_front/0002/47/thumb_146066_phone_front_medium.jpeg,Oppo Find X,0
+5.9,7.7,Oppo,4.9,4.6,6.2,6.3,//cdn-files.kimovil.com/phone_front/0002/48/thumb_147300_phone_front_medium.jpeg,Oppo A5,0
+5.8,7.7,Oppo,5.2,4.5,6.2,5.4,//cdn-files.kimovil.com/phone_front/0002/49/thumb_148788_phone_front_medium.jpeg,Oppo A3s,0
+6.9,6.1,Oppo,6.2,6.7,7.9,7.5,//cdn-files.kimovil.com/phone_front/0002/54/thumb_153172_phone_front_medium.jpeg,Oppo R17,0
+6.8,5.9,Oppo,6.2,6.5,8.2,7.0,//cdn-files.kimovil.com/phone_front/0002/53/thumb_152464_phone_front_medium.jpeg,Oppo F9,0
+6.7,5.9,Oppo,6.1,6.0,8.2,7.3,//cdn-files.kimovil.com/phone_front/0002/53/thumb_152464_phone_front_medium.jpeg,Oppo F9 Pro,0
+7.6,6.3,Oppo,7.4,8.5,8.1,7.5,//cdn-files.kimovil.com/phone_front/0002/54/thumb_153172_phone_front_medium.jpeg,Oppo RX17 Pro,0
+6.4,7.7,Oppo,5.0,7.1,6.4,5.6,//cdn-files.kimovil.com/phone_front/0002/54/thumb_153562_phone_front_medium.jpeg,Oppo R15 Neo,0
+6.9,7.7,Oppo,6.1,6.3,7.5,6.8,//cdn-files.kimovil.com/phone_front/0002/58/thumb_157375_phone_front_medium.jpeg,Oppo A7x,0
+6.6,5.9,Oppo,6.7,5.8,7.9,6.8,//cdn-files.kimovil.com/phone_front/0002/62/thumb_161652_phone_front_medium.jpeg,Oppo K1,0
+6.4,6.1,Oppo,5.4,6.1,7.4,7.1,//cdn-files.kimovil.com/phone_front/0002/64/thumb_163775_phone_front_medium.jpeg,Oppo R15x,0
+7.0,6.1,Oppo,6.3,7.5,8.1,6.9,//cdn-files.kimovil.com/phone_front/0002/70/thumb_169458_phone_front_medium.jpeg,Oppo RX17 Neo,0
+6.5,7.7,Oppo,5.3,7.1,6.5,5.7,//cdn-files.kimovil.com/phone_front/0002/60/thumb_159540_phone_front_medium.jpeg,Oppo AX7,0
+6.6,6.1,Oppo,6.2,6.4,7.6,6.9,//cdn-files.kimovil.com/phone_front/0002/98/thumb_197286_phone_front_medium.jpeg,Oppo AX7 Pro,0
+7.2,6.8,Oppo,7.9,5.8,7.9,7.5,//cdn-files.kimovil.com/phone_front/0002/95/thumb_194690_phone_front_medium.jpeg,Oppo F11 Pro,0
+7.2,7.0,Oppo,7.6,6.1,8.0,7.2,//cdn-files.kimovil.com/phone_front/0002/95/thumb_194236_phone_front_medium.jpeg,Oppo F11,0
+5.9,7.6,Oppo,5.2,4.7,6.2,5.8,//cdn-files.kimovil.com/phone_front/0002/95/thumb_194844_phone_front_medium.jpeg,Oppo A5s,0
+6.3,7.7,Oppo,5.2,6.0,6.4,6.3,//cdn-files.kimovil.com/phone_front/0003/01/thumb_200381_phone_front_medium.jpeg,Oppo A7n,0
+8.4,7.5,Oppo,8.8,8.8,8.5,8.5,//cdn-files.kimovil.com/phone_front/0003/02/thumb_201906_phone_front_medium.jpeg,Oppo Reno 10X Zoom,0
+7.7,6.4,Oppo,8.1,7.8,8.7,7.6,//cdn-files.kimovil.com/phone_front/0003/01/thumb_200433_phone_front_medium.jpeg,Oppo Reno,0
+5.5,6.6,Oppo,4.8,5.1,5.4,5.7,//cdn-files.kimovil.com/phone_front/0003/05/thumb_204770_phone_front_medium.jpeg,Oppo A1k,0
+7.1,6.9,Oppo,6.8,6.9,7.7,7.4,//cdn-files.kimovil.com/phone_front/0003/05/thumb_204947_phone_front_medium.jpeg,Oppo A9,0
+7.1,6.9,Oppo,7.3,6.1,7.7,7.4,//cdn-files.kimovil.com/phone_front/0003/10/thumb_209313_phone_front_medium.jpeg,Oppo A9X,0
+6.6,6.4,Oppo,5.5,5.8,7.7,7.5,//cdn-files.kimovil.com/phone_front/0003/11/thumb_210753_phone_front_medium.jpeg,Oppo K3,0
+6.1,6.7,Oppo,3.4,5.6,7.5,7.2,//cdn-files.kimovil.com/phone_front/0003/01/thumb_200685_phone_front_medium.jpeg,Oppo Reno Lite,0
+7.7,7.3,Oppo,7.8,8.0,7.8,7.7,//cdn-files.kimovil.com/phone_front/0003/13/thumb_212487_phone_front_medium.jpeg,Oppo Reno Z,0
+8.1,7.3,Oppo,8.8,8.2,8.4,7.8,//cdn-files.kimovil.com/phone_front/0003/40/thumb_239046_phone_front_medium.jpeg,Oppo Reno 2,0
+6.9,6.8,Oppo,7.0,5.7,7.8,7.3,//cdn-files.kimovil.com/phone_front/0003/40/thumb_239073_phone_front_medium.jpeg,Oppo Reno 2F,0
+7.3,7.0,Oppo,8.1,5.7,7.7,7.8,//cdn-files.kimovil.com/phone_front/0003/40/thumb_239073_phone_front_medium.jpeg,Oppo Reno 2Z,0
+7.1,8.6,Oppo,6.3,7.0,6.8,6.6,//cdn-files.kimovil.com/phone_front/0003/47/thumb_246629_phone_front_medium.jpeg,Oppo A5 2020,0
+7.5,8.6,Oppo,6.9,7.9,6.8,7.3,//cdn-files.kimovil.com/phone_front/0003/47/thumb_246618_phone_front_medium.jpeg,Oppo A9 2020,0
+7.2,8.7,Oppo,7.0,6.0,6.7,7.5,//cdn-files.kimovil.com/phone_front/0003/77/thumb_276588_phone_front_medium.png,Oppo A11x,0
+7.1,6.2,Oppo,5.4,7.9,8.5,7.6,//cdn-files.kimovil.com/phone_front/0003/60/thumb_259961_phone_front_medium.jpeg,Oppo Reno A,0
+8.1,7.1,Oppo,8.3,8.4,8.1,8.6,//cdn-files.kimovil.com/phone_front/0003/54/thumb_253273_phone_front_medium.jpeg,Oppo Reno Ace,0
+7.7,6.7,Oppo,8.8,7.3,7.8,7.9,//cdn-files.kimovil.com/phone_front/0003/61/thumb_260233_phone_front_medium.jpeg,Oppo K5,0
+8.3,7.1,Oppo,8.9,8.4,8.5,8.6,//cdn-files.kimovil.com/phone_front/0003/40/thumb_239046_phone_front_medium.jpeg,Oppo Reno 2 5G,0
+7.0,8.7,Oppo,6.6,5.5,6.7,7.3,//cdn-files.kimovil.com/phone_front/0003/77/thumb_276631_phone_front_medium.jpeg,Oppo A11,0
+8.3,7.4,Oppo,9.0,8.1,9.0,8.1,//cdn-files.kimovil.com/phone_front/0003/89/thumb_288691_phone_front_medium.jpeg,Oppo Reno 3 Pro,0
+7.5,7.4,Oppo,7.8,6.4,7.5,8.3,//cdn-files.kimovil.com/phone_front/0003/89/thumb_288686_phone_front_medium.jpeg,Oppo Reno 3,0
+6.9,7.1,Oppo,6.8,6.0,7.5,7.1,//cdn-files.kimovil.com/phone_front/0003/91/thumb_290551_phone_front_medium.jpeg,Oppo A91,0
+6.3,7.6,Oppo,5.5,5.2,6.6,6.5,//cdn-files.kimovil.com/phone_front/0003/91/thumb_290577_phone_front_medium.jpeg,Oppo A8,0
+6.9,7.1,Oppo,6.7,5.6,7.9,7.3,//cdn-files.kimovil.com/phone_front/0004/02/thumb_301432_phone_front_medium.jpeg,Oppo F15,0
+7.9,7.4,Oppo,8.8,7.6,7.4,8.1,//cdn-files.kimovil.com/phone_front/0004/22/thumb_321540_phone_front_medium.jpeg,Oppo Rеnо 3 Vitаlity Еditiоn,0
+6.2,7.6,Oppo,5.5,4.9,6.6,6.4,//cdn-files.kimovil.com/phone_front/0003/91/thumb_290577_phone_front_medium.jpeg,Oppo A31,0
+0.0,0,Oppo,0,0,0,0,//cdn-files.kimovil.com/phone_front/0004/33/thumb_332018_phone_front_medium.jpeg,Oppo Reno 3 Pro 4G,0
+8.8,7.6,Oppo,9.0,8.9,9.1,9.2,//cdn-files.kimovil.com/phone_front/0004/34/thumb_333510_phone_front_medium.jpeg,Oppo Find X2,0
+9.0,7.7,Oppo,9.1,9.3,9.6,9.4,//cdn-files.kimovil.com/phone_front/0004/34/thumb_333498_phone_front_medium.jpeg,Oppo Find X2 Pro,0
+8.4,7.5,Oppo,8.2,8.3,8.8,9.1,//cdn-files.kimovil.com/phone_front/0004/48/thumb_347964_phone_front_medium.jpeg,Oppo Reno Ace 2,0
+6.4,7.6,Oppo,4.9,5.8,7.0,6.5,//cdn-files.kimovil.com/phone_front/0004/55/thumb_354465_phone_front_medium.jpeg,Oppo A12,0
+7.1,8.5,Oppo,6.6,5.8,7.1,7.5,//cdn-files.kimovil.com/phone_front/0004/55/thumb_354447_phone_front_medium.jpeg,Oppo A52,0
+7.7,7.4,Oppo,8.3,7.2,7.5,8.0,//cdn-files.kimovil.com/phone_front/0004/53/thumb_352951_phone_front_medium.jpeg,Oppo A92s,0
+7.9,7.4,Oppo,8.3,8.3,7.6,8.1,//cdn-files.kimovil.com/phone_front/0004/50/thumb_349016_phone_front_medium.jpeg,Oppo Find X2 Lite,0
+7.2,8.5,Oppo,6.9,5.9,7.0,7.5,//cdn-files.kimovil.com/phone_front/0004/55/thumb_354741_phone_front_medium.jpeg,Oppo A72,0
+0.0,0,Nokia,0,0,0,0,//cdn-files.kimovil.com/phone_front/0004/42/thumb_341010_phone_front_medium.jpeg,Nokia 1.3,0
+2.3,1.8,Nokia,2.8,3.4,1.8,1.7,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3167_phone_front_medium.jpeg,Nokia Lumia 620,0
+2.3,1.8,Nokia,2.8,3.0,2.0,1.7,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1660_phone_front_medium.jpeg,Nokia Lumia 520,0
+4.6,6.3,Nokia,5.5,6.2,3.3,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1624_phone_front_medium.jpeg,Nokia Lumia 925,0
+2.6,2.4,Nokia,2.9,3.5,2.3,1.8,//cdn-files.kimovil.com/phone_front/0001/04/thumb_3083_phone_front_medium.jpeg,Nokia Lumia 625,0
+3.8,2.2,Nokia,6.4,5.6,2.4,2.5,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1170_phone_front_medium.jpeg,Nokia Lumia 1020,0
+3.9,6.0,Nokia,2.9,5.8,2.4,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1851_phone_front_medium.jpeg,Nokia Lumia 1320,0
+4.7,5.6,Nokia,4.8,6.4,3.9,3.0,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1296_phone_front_medium.jpeg,Nokia Lumia 1520,0
+2.1,2.6,Nokia,1.9,2.4,1.8,1.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1670_phone_front_medium.jpeg,Nokia XL,0
+1.9,1.9,Nokia,1.7,2.4,1.8,1.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1662_phone_front_medium.jpeg,Nokia X+,0
+1.9,1.9,Nokia,1.7,2.4,1.9,1.7,//cdn-files.kimovil.com/phone_front/0001/01/thumb_951_phone_front_medium.jpeg,Nokia X,0
+4.1,2.9,Nokia,4.7,5.9,3.4,3.6,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1814_phone_front_medium.jpeg,Nokia Lumia 930,0
+2.6,2.1,Nokia,2.8,3.5,2.9,1.9,//cdn-files.kimovil.com/phone_front/0001/01/thumb_977_phone_front_medium.jpeg,Nokia Lumia 635,0
+2.6,2.1,Nokia,1.8,4.1,2.9,2.3,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1029_phone_front_medium.jpeg,Nokia Lumia 636,0
+2.1,2.4,Nokia,1.8,2.5,1.8,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1079_phone_front_medium.jpeg,Nokia X2,0
+2.2,1.7,Nokia,2.8,2.7,2.0,1.9,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1661_phone_front_medium.jpeg,Nokia Lumia 530,0
+3.3,2.8,Nokia,3.8,3.8,3.8,2.2,//cdn-files.kimovil.com/phone_front/0001/05/thumb_4003_phone_front_medium.jpeg,Nokia Lumia 730,0
+3.4,2.9,Nokia,4.1,4.1,3.6,2.2,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1949_phone_front_medium.jpeg,Nokia Lumia 735,0
+4.1,2.8,Nokia,5.4,5.0,4.6,2.8,//cdn-files.kimovil.com/phone_front/0001/02/thumb_1882_phone_front_medium.jpeg,Nokia Lumia 830,0
+2.5,2.1,Nokia,2.8,2.6,2.9,1.9,//cdn-files.kimovil.com/phone_front/0001/03/thumb_2488_phone_front_medium.jpeg,Nokia Lumia 630,0
+5.5,5.0,Nokia,4.7,5.9,6.4,5.5,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220939_devicerender_small.jpeg,Nokia 6,0
+4.6,3.7,Nokia,4.1,6.2,5.1,4.0,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220931_devicerender_small.jpeg,Nokia 3,0
+5.0,4.3,Nokia,4.5,6.6,4.9,4.6,//cdn-files.kimovil.com/devicerender/0003/21/thumb_220927_devicerender_small.jpeg,Nokia 5,0
+6.8,5.5,Nokia,6.8,7.5,6.9,7.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221090_devicerender_small.jpeg,Nokia 8,0
+4.8,7.6,Nokia,2.6,5.4,6.2,2.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221232_devicerender_small.jpeg,Nokia 2,0
+5.5,4.6,Nokia,5.3,6.6,5.3,5.9,//cdn-files.kimovil.com/phone_front/0002/01/thumb_100160_phone_front_medium.jpeg,Nokia 7,0
+5.7,4.5,Nokia,5.2,7.1,5.4,6.4,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221285_devicerender_small.jpeg,Nokia 6.1,0
+7.1,5.6,Nokia,7.6,7.6,7.3,7.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221419_devicerender_small.jpeg,Nokia 8 Sirocco,0
+6.7,6.4,Nokia,7.5,7.0,5.8,6.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221430_devicerender_small.jpeg,Nokia 7 Plus,0
+3.3,2.8,Nokia,3.0,4.5,2.9,3.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221404_devicerender_small.jpeg,Nokia 1,0
+5.9,4.9,Nokia,6.1,5.4,6.8,6.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221589_devicerender_small.jpeg,Nokia 6.1 Plus,0
+5.1,3.8,Nokia,3.2,7.7,5.6,5.3,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221621_devicerender_small.jpeg,Nokia 5.1,0
+5.2,4.2,Nokia,4.2,7.7,5.0,4.8,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221562_devicerender_small.jpeg,Nokia 3.1,0
+4.9,6.9,Nokia,2.6,6.7,4.2,3.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221613_devicerender_small.jpeg,Nokia 2.1,0
+5.8,5.1,Nokia,5.8,5.9,5.5,6.6,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221583_devicerender_small.jpeg,Nokia X5,0
+6.0,5.1,Nokia,6.1,6.6,5.3,6.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221583_devicerender_small.jpeg,Nokia 5.1 Plus,0
+7.0,6.1,Nokia,8.1,6.8,6.9,7.1,//cdn-files.kimovil.com/phone_front/0003/08/thumb_207853_phone_front_medium.jpeg,Nokia X7,0
+6.1,4.5,Nokia,6.0,6.9,6.4,6.5,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221719_devicerender_small.jpeg,Nokia 7.1,0
+5.9,5.9,Nokia,6.3,7.0,4.2,5.9,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221793_devicerender_small.jpeg,Nokia 3.1 Plus,0
+7.2,6.0,Nokia,8.2,7.3,7.2,7.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221762_devicerender_small.jpeg,Nokia 8.1,0
+5.6,7.5,Nokia,3.9,5.2,5.5,6.0,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221956_devicerender_small.jpeg,Nokia 3.2,0
+5.4,4.7,Nokia,4.9,6.4,4.6,6.2,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221983_devicerender_small.jpeg,Nokia 4.2,0
+3.8,3.2,Nokia,2.5,5.0,4.3,4.1,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221906_devicerender_small.jpeg,Nokia 1 Plus,0
+7.0,5.2,Nokia,7.4,7.5,7.0,7.7,//cdn-files.kimovil.com/devicerender/0003/22/thumb_221847_devicerender_small.jpeg,Nokia 9 Pureview,0
+6.9,5.9,Nokia,6.8,6.5,8.2,7.2,//cdn-files.kimovil.com/phone_front/0003/01/thumb_200413_phone_front_medium.jpeg,Nokia X71,0
+4.8,5.2,Nokia,3.9,5.0,4.6,5.3,//cdn-files.kimovil.com/devicerender/0003/31/thumb_230750_devicerender_small.jpeg,Nokia 2.2,0
+6.2,6.0,Nokia,4.6,7.3,6.7,6.6,//cdn-files.kimovil.com/devicerender/0003/61/thumb_260059_devicerender_small.jpeg,Nokia 6.2,0
+6.7,5.9,Nokia,5.8,7.9,6.8,6.9,//cdn-files.kimovil.com/devicerender/0003/57/thumb_256423_devicerender_small.jpeg,Nokia 7.2,0
+5.7,7.5,Nokia,4.9,5.3,5.5,5.4,//cdn-files.kimovil.com/devicerender/0003/91/thumb_290947_devicerender_small.jpeg,Nokia 2.3,0
+0.0,0,Nokia,0,0,0,0,//cdn-files.kimovil.com/phone_front/0004/40/thumb_339746_phone_front_medium.jpeg,Nokia C2,0
+6.5,7.2,Nokia,5.6,6.2,6.5,7.2,//cdn-files.kimovil.com/phone_front/0004/41/thumb_340349_phone_front_medium.jpeg,Nokia 5.3,0
+7.3,8.0,Nokia,6.5,7.1,7.0,8.0,//cdn-files.kimovil.com/phone_front/0004/41/thumb_340318_phone_front_medium.jpeg,Nokia 8.3 5G,0
